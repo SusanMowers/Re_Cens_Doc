@@ -39,8 +39,7 @@ Get to know historical census data consult  a) Selected published tables data fi
 
 b) Compare census variables
 
-[Core census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf) || [Non-core census variables]
-{http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf) || [Variables by sub-group topics]
+[Core census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf) || [Non-core census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf) || [Variables by sub-group topics]
 (http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-variables-by-sub-group-table.pdf)
 
 DATA EXTRACTS vars in column order
