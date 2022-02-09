@@ -1,4 +1,4 @@
-#CCRI Canadian historical census data and materials, 1911 - 1951
+# CCRI Canadian historical census data and materials, 1911 - 1951
 
 ## What is the CCRI?
 
@@ -12,7 +12,7 @@ This page pulls together background information about the CCRI project and how t
 
 ### 1. Privacy protections and Censuses of Canada, 1911 - 1951
 
-Census privacy for Canadians of their Census responses is prohibited for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html)   At the time of writing, only the [CCRI 1911 micro data file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 micro data file](https://ccri.library.ualberta.ca/en1921census/database/index.html) may be disclosed, and are available through the University of Alberta, see also [CCRI sample designs](https://ccri.library.ualberta.ca/endatabase/sampling/sampledesign/index.html), and [sample weights]??
+Census privacy for Canadians of their Census responses is prohibited for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html). At the time of writing, only the [CCRI 1911 micro data file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 micro data file](https://ccri.library.ualberta.ca/en1921census/database/index.html) may be disclosed, and are available through the University of Alberta, see also [CCRI sample designs](https://ccri.library.ualberta.ca/endatabase/sampling/sampledesign/index.html), and [sample weights]??
 looking ahead, the 1931 micro data file will be eligible for release in late 2023, while currently the 1931, 1941 and 1951 micro data files are available upon application to the Canadian Research Data Centre Network (CRDCN), see [application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census micro data in the CRDCN.
 
 Nonetheless, the CCRI project gathered and documented a wealth of materials that can be used on their own, VARS? and to understand the data files, regardless of the availability of the  micro data.  
@@ -52,7 +52,7 @@ Click and hold on Database at the top, then select variable groups to find for g
 1911 [codebook](https://ccri.library.ualberta.ca/en1911census/codes/index.html) and 
 1921  [Codebook](https://ccri.library.ualberta.ca/en1921census/codes/index.html) || [Further 1921 documentation](#####Further 1921 documentation)
 
-#####Further 1911 documentation
+##### Further 1911 documentation
 [codebook]() || [enumerator instructions](http://www.ccri.uottawa.ca/CCRI/Images/1911%20Enumerator%20Instructions%20-%20English.pdf), and for the [North West and Yukon Territories](http://www.ccri.uottawa.ca/CCRI/Images/1911%20Enumerator%20Instructions%20-%20North%20-%20bilingue.pdf) || [Census schedule](http://www.ccri.uottawa.ca/CCRI/Images/1911.Schedule.jpg)
 #####Further 1921 documentation
 [codebook]***|| [Data entry manual](https://ccri.library.ualberta.ca/assets/pdfen/1921deomanual/Data_Entry_Manual_1921.pdf) || [enumerator instructions](http://www.ccri.uottawa.ca/CCRI/Images/1921%20Enumerator%20Instructions%20-%20English.pdf) || [Census schedule](http://www.ccri.uottawa.ca/CCRI/Images/1921.Schedule.jpg)
