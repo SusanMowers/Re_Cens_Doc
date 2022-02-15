@@ -1,333 +1,178 @@
 # CCRI Canadian historical census data and materials, 1911 - 1951
 
+ver. February 14, 2022
+
 ## What is the CCRI?
 
-The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009.  Many valuable data materials were produced from Canada's original decennial census returns and supporting materials from 1911 to 1951 (namely the 1911, 1921, 1931, 1941 and 1951 Censuses of Population of Canada).  
+The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009.  [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html)   collaborated to produce a wealth of interrelated detailed data centred on Canada's original census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
 
-## Why another web page about the CCRI censuses?
+The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“.[CCRI Newsletter, Spring 2005](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf)
 
-This page pulls together background information about the CCRI project and how to find key CCRI-produced census data and materials.  Much of the information on this page is found on existing CCRI web sites, including the [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html), and archive CCRI sites at the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), and the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm).  For further information, see [three new ways to research historical census data and where to look] (#### Three ways CCRI improves research on Canadian society from 1911-1951)
+Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.
 
-## Reasons CCRI didn't release all their Census data and materials in one place
+## Why another web page about CCRI's historical Census of Canada resources?
 
-### 1. Privacy protections and Censuses of Canada, 1911 - 1951
+#### Get to know what CCRI data is available and where to find it ...
 
-Census privacy for Canadians of their Census responses is prohibited for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html). At the time of writing, only the [CCRI 1911 micro data file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 micro data file](https://ccri.library.ualberta.ca/en1921census/database/index.html) may be disclosed, and are available through the University of Alberta, see also [CCRI sample designs](https://ccri.library.ualberta.ca/endatabase/sampling/sampledesign/index.html), and [sample weights]??
-looking ahead, the 1931 micro data file will be eligible for release in late 2023, while currently the 1931, 1941 and 1951 micro data files are available upon application to the Canadian Research Data Centre Network (CRDCN), see [application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census micro data in the CRDCN.
+This web posting introduces the ambitious range of CCRI's Census data for Canada's decennial censuses between 1911 and 1951.
 
-Nonetheless, the CCRI project gathered and documented a wealth of materials that can be used on their own, VARS? and to understand the data files, regardless of the availability of the  micro data.  
+Knowing where to look for CCRI census data and materials may be very helpful for those interested in the history of their communities, or larger geographies, as to the make-up of Canada’s peoples, presence of cultural identities and languages, economic classes and education to family and household living during this transformational period.
 
-### 2. CCRI micro data files
+It should be highlighted that CCRI data and related materials are also available in French. Chaque archive de l'ICRS fournit des données et des documents de l'ICRS en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web.
 
-The five census micro data files were coded as inter-related and well-described data files. Additionally, harmonized spatial data files were produced for those five censuses to support computer mapping of all census data. The data files and their documentation provide detailed data snapshots of Canada, 1911 - 1951, on the then ten-year Census cycle.
+### Reasons why CCRI didn't release their Census data and materials in "one" place
 
-#### Three ways CCRI improves research on Canadian society from 1911-1951
+#### 1. Privacy protections
 
-(1) Historical - 
-New research across full range of social, cultural and economic subjects gathered from Canadians.
-[MORE INFO](1. Historical census topics)
-(2) Where - 
-Selection, aggregation and analysis of census data by location  
-[MORE INFO](#####MORE INFO 2)
-(3) How - bridging qualitative and quantitative research about Canadians, using primary sources and CCRI's data and qualitative documentation (secondary sources) on how and why data was collected form Canadians, Indigenous peoples, other Canadian-born persons and newcomers. 
-MORE INFO 3
+Privacy of Canadians' census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html)
 
-Researching the CCRI historical census materials
+As a result, only the [CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases". Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See [the CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census micro data in the CRDCN. Looking ahead, the 1931 micro data file is eligible for public release in late 2023.
 
-#####1. Historical census topics
-Get to know historical census data consult  a) Selected published tables data files (xls), e.g., CCRI_PUB_YYYY_V1T1 and look-up variable descriptions (pdf), e.g., YYYY_V1T1_Variables.  Access [1911](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [1921](http://odesi.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [1931](http://odesi.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [1941](http://odesi.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [1951](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html)
+#### 2. Archiving of CCRI resources across partner university archives
 
-b) Compare census variables
+###### A network of archives
 
-[Core census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf) || [Non-core census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf) || [Variables by sub-group topics]
-(http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-variables-by-sub-group-table.pdf)
+CCRI archiving efforts were shared between several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, and not a single portal, was the focus because of the scope of the archiving, first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation,  supporting CCRI data) and second, privacy protections.
 
-DATA EXTRACTS vars in column order
-all http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=319&itemid=108.htm
+###### Source archives
 
- || [1911](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=368&itemid=108.htm)
-High level variable groups https://ccri.library.ualberta.ca/endatabase/variables/index.html
-Click and hold on Database at the top, then select variable groups to find for general coding information for census variables.
-1911 [codebook](https://ccri.library.ualberta.ca/en1911census/codes/index.html) and 
-1921  [Codebook](https://ccri.library.ualberta.ca/en1921census/codes/index.html) || [Further 1921 documentation](#####Further 1921 documentation)
+At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the [University of Alberta Dataverse]([https://dataverse.scholarsportal.info/dataverse/CCRI)), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html). Nonetheless, much can be gained from perusing this page for an overview of the range of resources found on these websites and others.
 
-##### Further 1911 documentation
-[codebook]() || [enumerator instructions](http://www.ccri.uottawa.ca/CCRI/Images/1911%20Enumerator%20Instructions%20-%20English.pdf), and for the [North West and Yukon Territories](http://www.ccri.uottawa.ca/CCRI/Images/1911%20Enumerator%20Instructions%20-%20North%20-%20bilingue.pdf) || [Census schedule](http://www.ccri.uottawa.ca/CCRI/Images/1911.Schedule.jpg)
-#####Further 1921 documentation
-[codebook]***|| [Data entry manual](https://ccri.library.ualberta.ca/assets/pdfen/1921deomanual/Data_Entry_Manual_1921.pdf) || [enumerator instructions](http://www.ccri.uottawa.ca/CCRI/Images/1921%20Enumerator%20Instructions%20-%20English.pdf) || [Census schedule](http://www.ccri.uottawa.ca/CCRI/Images/1921.Schedule.jpg)
-#####Further 1931 documentation
-[Data entry manual](https://ccri.library.ualberta.ca/assets/pdfen/deomanuals/Data_Entry_Manual_1931.pdf)
+## Where to start?
 
+Start with CCRI's data sources, (1) Selected Published Census Data Tables, (2) CCRI microdata, and (3) CCRI geographic boundary files. Relevant Census documentation and metadata materials are included with links to the data. Conclude by considering CCRI's contextual database.
 
-Census Micro-data 
-Introductory xls files
+As happened to me when compiling this information, I hope that some of this information may help you in your awareness of CCRI's Census of Canada data, or in your use of this important source of historical Census data.
 
-Census Micro-data 
-1911 (odesi) & user guide & data entry guide
-1921 (CCRI Alberta) & user guide & data entry guide
-1931 CRDCN & user guide & data entry guide
-1941 CRDCN & user guide & data entry guide
-1951 CRDCN & user guide & data entry guide
+## CCRI data sources
 
-Introductory xls files 
+### 1. Selected Published Census Data Tables
 
-1911 (odesi) xls files & user guide extracts 
-1921 (odesi) xls files & user guide extracts 
-1931 odesi) xls files & user guide extracts 
-1941 odesi) xls files & user guide extracts 
-1951 (odesi) xls files & user guide extracts 
+Consult these excel Census files, by Census divisions and Census subdivisions. These tables are a  selection of the print summary Census tables as a jumping off point to get your bearings in Canada's historical censuses for 1911 to 1951.  CCRI produced these Excel tables from the published volumes of Census tables, and produced user guide documentation.  
 
-MORE INFO 2
+ The Excel table names found below follow the naming convention, CCRI_PUB_YYYY_V#T#.xls, while  the look-up variable description lists follow the naming convention, YYYY_V#T#_Variable.pdf.
 
-Locations / Geography
-1. [Reference maps 
-of census divisions and subdivisions for provinces and territories] (http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
-- showing CCRI census geography including the mappable alphanumeric geocodes and proper names of census divisions)
-- Census Division Maps, see CANADA REFERENCE MAPS
-- Census Subdivision Maps by census year below, see PROVINCIAL or TERRITORIAL REFERENCE MAPS 
-shape files see
-2. Constructing a GIS framework 
-(http://mercator.geog.utoronto.ca/ccri/CCRI_NACIS_webversion_files/frame.htm)
-- Presents original reference map sources and introduces methodology
+#### Access summary excel tables (Aggregate data and geography)
 
-MORE INFO 3
-- qualitative data
-- CONCEPTS Enumeration guides
-- CONCEPTS Schedules / q
-- CONCEPTS Variables
-- CONCEPTS 
-- primary sources, 
+a.	[1911 excel tables & variable look-up lists](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html), and [user guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
+b.	[1921 excel tables & variable look-up lists](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html), and [user guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
+c.	[1931 excel tables & variable look-up lists](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html), and [user guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
+d.	[1941 excel tables & variable look-up lists](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html), and [user guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
+e.	[1951 excel tables & variable look-up lists](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html), and [user guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
 
+##### Want to map summary data?
 
-MORE INFO 4
+You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.   
 
-- Integrated contextual database, the bilingual database at University of Québec at Trois Rivières CIEQ
-https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB
 
-See also 
+### 2. Microdata
 
-Please also note that the main web site for archiving the principal materials produced by the CCRI project is the University of  Alberta CCRI web site, and for contextual data, the University of Québec at Trois Rivières CCRI CEIQ database.  
+A word of introduction, according to the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html):
 
-Also more material here ...
+_Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions._
 
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-READ & END RESULTS
+| Year | Total National Population (1) | CCRI Sample | % |
+|:----:|:-----------------------------:|:-----------:|:-:|
+| 1911 |           7 206 648           |   371 557   | 5 |
+| 1921 |           8 788 483           |   367 475   | 4 |
 
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
+_(1) **Total national population**, according to published census volumes._  
+### 2.1 Access CCRI microdata
+1911  
+[Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1911census/database/index.html)     
+  [_codebook for 1911_](https://ccri.library.ualberta.ca/en1911census/codes/index.html)  
+1921    
+[Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)  
+  [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)  
+*The website refers to microdata as "Databases". The above data files are public, allowable because these censuses are older than the 92-year period when Canadians' censuses must be kept private.
 
-WHEN slide 7 https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf
+### 2.2 Access data documentation
 
-intro to the microdata files including sample sizes https://ccri.library.ualberta.ca/enoverview/microdata/index.html
+The following microdata documentation applies to all census years.
 
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
+#### 2.2.1 Compare CCRI census variables
 
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
+* [See list of core census variables: CCRI variables that are identical in each of the five censuses](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf)   
+* Codebook
+** Browse topics: [High-level CCRI census variable groupings](https://ccri.library.ualberta.ca/endatabase/variables/index.html),
+** Drill down by variables: navigate to **The Database** (upper menu) and select **Variables** ,
+** Find your variable codebook: select your variable grouping, and variables of interest.  (The "Derived" grouping covers several topics.)
+** The codebook for your variable(s) of interest provides detailed informaton including, the years where the variable appears, and further details (drilling down by year, e.g., answer coding).
+* Codebook ([option 2](http://web5.uottawa.ca/ccri/CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm), bilingual)
+* [See also list of non-core CCRI census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf)
 
-MORE INFO 5
+#### 2.2.2 Official Census of Population of Canada documentation
+* [Schedules](https://ccri.library.ualberta.ca/enresources/schedules/index.html) (official census schedules, or census "questions")  
+* [Enumerator instructions](https://ccri.library.ualberta.ca/enresources/enumeratorinstructions/index.html) (official enumerator instructions).
+* [Census Guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) (CCRI documentation)  
+  * Select Year / Census schedule of interest  
+  * Scroll down to **Census Schedule Questions**  
+  * Select your Census question of interest  
+  * A census question guide displays. The guide comprises sections A to I, covering details for each question, including who was asked each question, how was it asked, enumerator instructions and variable (click on variable for how the question was recorded).
 
-"... virtual research infrastructure designed to enable analysis of social, cultural, and economic change in ways that go beyond the quantitative / qualitative distinction." (Colloquium Abstract - Integrating Words and Numbers:
-Reflections While Constructing the
-Canadian Century Research
-Infrastructure)
-"... une infrastructure de recherche virtuelle conçue pour permettre l’analyse des changements sociaux, culturels et
-économiques selon un raisonnement qui dépasse la distinction quantitative/qualitative." (Résumé du colloque, Intégrer les mots et les chiffres : Réflexions concomitantes à l’élaboration de
-l’infrastructure de recherche sur le Canada
-au 20e siècle  
-(http://www.ccri.uottawa.ca/CCRI/Images/gaff_26_01_04.pdf)
+#### 2.2.3 Consult maps
 
-As some examples of the new knowledge possible because of this digitization project, you may want to consult this bibliography at your local library (also available electronically). And excerpts. See: 
+CCRI created harmonized geography for the selection and aggregation of Census microdata. Census Districts are smaller than provinces and territories, and Census Subdistricts and Indian Reserves are in turn breakdowns of Census Districts.
 
-Privacy, Canadians' Census responses are  protected for 92 years after the data is collected.  Therefore, at the time of writing, only the 1911 and 1921 micro data files are available through the University of Alberta and Odesi, while the 1931 micro data file eligible for release in late 2023, and the 1931, 1941 and 1951 micro data files are available upon application to the Canadian Research Data Centre Network.
+The University of Toronto was responsible for [archiving some 91 reference maps]((http://mercator.geog.utoronto.ca/ccri/referencemaps.htm) of CCRI's geographies. The maps are organized by census year and level of detail. Level of detail: the provincial and territorial reference maps show both Census Districts and Census Subdistricts (and where relevant, Indian Reserves), while the Canada reference maps only show Census Districts. Number of reference maps: where one reference map is insuffient to clearly show all geographies, then a Reference Map B (inset map) is provided with enlargements of areas not shown adequately in Reference Map A.
 
-Nonetheless, the project has produced an enormous amount of materials as well as
+##### [Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
-- codebook? Context database
-- topics
-- agg data, guides, var lists
-- get
+See **Canada Reference Maps**. Reference maps by year. Notable lists of Census District codes and names (_list_of_CDs.pdf) for each year. on the University of Toronto [Distribution site for CCRI Geographic reference map files].  
 
-The major materials were de-identified (no names, no exact addresses) data files. In these files, every census return for a specific person is their own case or row in a data file, e.g., age 39, occupation manager, born Calgary, resident: Edmonton - ward__ ..., sex female, ethnicity ? for census year 1951.  The detailed census data files can be inter-related to one another, e.g., to compare immigration and ethnicity by district.?
+###### [Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
+See **Provincial or Territorial Reference Maps**. Reference maps showing Census Districts and Census Subdistricts by census year, and then by provinces and territories.
 
+##### Alternatively, do you want to use GIS?
 
-But you can still find out a lot about the 1931 - 1951 CCRI files because of the professional documentation made while they were being produced. Therefore this site provides an overview of the various CCRI materials, and not just the detailed data files, and if possible, helps you to access all public data and materials.
+*Reconstructed Census Geography GIS layers (boundary files) are provided for every census year*. You can summarize CCRI data by Census districts or Census subdistricts, and using the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
-Here are the partnering universities http://www.ccri.uottawa.ca/CCRI/Universities.html and the institutions charged with archiving those materials (CCRI uOttawa).
 
-Upper GREEN BALLOON (http://www.ccri.uottawa.ca/CCRI/Balloons.html) 
-CCRI data processing (secondary sources) 
-User guide for each census variable for every census year.
-Coding scheme documents
-Cross-Census Harmonization Methodology documents
-Geography data files to compare (for the purposes of ... "location, selection, aggregation and analysis") (http://www.ccri.uottawa.ca/CCRI/Balloons.html) census data geographically over time.
+#### 2.2.4 Methodology documentation
 
-Textual databases. http://www.ccri.uottawa.ca/CCRI/Balloons.html
+* [Data Dictionary](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=310&itemid=95.htm). Comprises microdata documentation: [Census guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) || [CCRI Variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm) || [CCRI Coding](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=5&itemid=107.htm) || [Data extract](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=319&itemid=108.htm). Scroll down page for **A Note on CCRI Variables**.
+* [CCRI sampling methodology](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=307&itemid=92.htm). *The CCRI microdata represents a sample of the total national census populations for each Census year (enumeration). The CCRI has developed a wide range of methods of minimizing and adjusting for inconsistencies in that sample.*
+* [CCRI Geography](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=5&itemid=107.htm). Note also, [CCRI Geographic Reference Table and Geographic fields incorporated into the micro-data](https://ccri.library.ualberta.ca/endatabase/geography/referencetables/index.html)
+* [Data Entry Manuals](https://ccri.library.ualberta.ca/enresources/deo/index.html)  
+* [Read-and-Edit Results after data entry](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=766&itemid=283.htm)
 
-Where is the political database
-Newspaper database only at UQTR?
-contextual database http://ccri-cd.cieq.ca/
+### 3. CCRI Census Geography Boundary Files
 
+Boundary files for CCRI Census Districts and Census Subdistricts are available from Scholars GeoPortal.  
+**RESTRICTED TO CANADIAN UNIVERSITIES AND COLLEGES**
 
-Where is the STC database
+#### 3.1 Uses
 
+* For historical census mapping and spatial analysis: **Add**, then **download** in full or by area of interest for GIS,
+* For map visualization in Scholars Geoportal or exporting high-resolution map documents.
 
-Toronto http://mercator.geog.utoronto.ca/ccri/
+#### 3.2 Access CCRI boundary files with detailed metadata
 
-https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB
-Filemaker database
+* [Boundary files, 1911 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=1883595374)
+* [Boundary files, 1921 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=762737871)
+* [Boundary files, 1931 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=3936847664)
+* [Boundary files, 1941 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=2815990161)
+* [Boundary files, 1951 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=1695132658)
 
- Au sujet
-Claude Bellavance and France Normand - 
-Documenter et « informer » les recensements canadiens : le
-dossier des données contextuelles de 1911 dans l’IRCS
-Documenting and “Informing” Canadian Censuses: The Matter
-of the 1911 Metadata in the CCRI
-Cahiers québécois de démographie
-Volume 34, Number 2, automne 2005
-p. 329-347.
+## CCRI Contextual database
 
-https://www.erudit.org/en/journals/cqd/1900-v1-n1-cqd1429/014015ar.pdf
+From the database user guide, and from the [University of Ottawa CCRI archive](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=306&itemid=91.htm)
 
+### 1. Censuses in Context
 
-Complete 
-http://mercator.geog.utoronto.ca/ccri/referencemaps.htm
-91 reference maps 
-National series - Reference Maps by CCRI Census Divisions 
-CANADA REFERENCE MAPS
-- Each Census year
-- Reference Map A: national map with CD geocodes (PR###) and PR000 = province codes
-- Reference Map B: inset (enlarged area) map for southern Ontario
-- CD 
-- list of geocodes and names of census divisions ARE THESE THE SAME FOR EACH CENSUS YEAR
-Reference Map A_B List of CDs.pdf
+***Documenting and Understanding the Making of Early 20th Century Canadian Census***
 
-Provincial and Territorial  Reference Maps by CCRI Census Divisions and Census Subdivisions
-PROVINCIAL or TERRITORIAL REFERENCE MAPS 
-Series by census year (5)
-1911-1941 = 16 reference maps (11 = Reference map A, 5 = Reference map B, or inset maps)
-1951 = 17 reference maps (12 = Reference map A, 5 = Reference map B, or inset maps)
-(Including "NL 1951 CCRI Reference Map A" 
+This database is the result of the project's approach to reflect the *organization of censuses as a complex initiative, influenced by the major political issues of the day as well as relations between the State and civil society.*  The database records *inform us on issues as fundamental as State construction, mechanisms ensuring State legitimacy, the role of cultural intermediaries, etc.*
 
-Constructing a GIS framework 
-(http://mercator.geog.utoronto.ca/ccri/CCRI_NACIS_webversion_files/frame.htm)
-1. Presents original reference map sources
-Canada Century Research Infrastructure (CCRI)
-Infrastructure de recherche sur le Canada au 20 siècle (IRCS)
-Title from the maps is
+### 2. Coverage of the Contextual Database
 
-Reference Map A, 1911, Census Divisions: 
-Codes for selection and aggregation of micro-data 
-Codes pour la sélection et l'agrégation des micro-données
+*Using varied documentation, especially the media of the period, we have been able to gather valuable information on the organization, execution, and reception of censuses across Canada from 1911 to 1951. The ContextData database comprises more than 16,000 records. Nearly 170 newspapers as well as Canadian parliamentary debates and some provincial legislative debates were systematically searched during the months preceding and following the taking of the census.*
 
-Reference Map A, 1911, Census Divisions Census / Subdivisions / Indian Reserves
+### 3. Access and Use of the Contextual database
 
-Reference map A, 1931, Census Divisions, Census Subdivisions and Indian Reserves (Alberta)
+#### 3.1 Access the Database and User Guide
+The integrated Contextual database with a detailed user guide is found at the [Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB).
 
-Divisions de recensement Census Subdivisions / Subdivisions de recensement
-Indian Reserves / Réserves indiennes
-
-Codes for selection and aggregation of micro-data
-
-Except for B
-Detailed inset map. Codes for selection and aggregation of micro-data
-
- / Codes pour la sélection et l'agrégation des micro-données
-
-Carte de référence A 
-Reference Map A OR
-Carte de référence B 
-Reference Map B
-
-To this should be added the data geographic coverage in b'rackets (Canada) as in Reference Map A (Canada) OR
-Carte de référence A (Canada) 
-
-
-https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-Di Mascio, A., & Green, A. J. (2009). The Canadian Century Research Infrastructure: Enabling Humanities and Social Science Research in the Digital Age. Digital Studies/le Champ Numérique, 1(2). DOI: http://doi.org/10.16995/dscn.108
-
-Alex
-
-OMG http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-READ & END RESULTS
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
-
-See also 
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-READ & END RESULTS
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
-
-WHEN slide 7 https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf
-
-intro to the microdata files including sample sizes https://ccri.library.ualberta.ca/enoverview/microdata/index.html
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
-
-Canada Century Research Infrastructure (CCRI)
-Infrastructure de recherche sur le Canada au 20 siècle (IRCS)
-Title from the maps is
-
-Reference Map A, 1911, Census Divisions: 
-Codes for selection and aggregation of micro-data 
-Codes pour la sélection et l'agrégation des micro-données
-
-Reference Map A, 1911, Census Divisions Census / Subdivisions / Indian Reserves
-
-Reference map A, 1931, Census Divisions, Census Subdivisions and Indian Reserves (Alberta)
-
-Divisions de recensement Census Subdivisions / Subdivisions de recensement
-Indian Reserves / Réserves indiennes
-
-Codes for selection and aggregation of micro-data
-
-Except for B
-Detailed inset map. Codes for selection and aggregation of micro-data
-
- / Codes pour la sélection et l'agrégation des micro-données
-
-Carte de référence A 
-Reference Map A OR
-Carte de référence B 
-Reference Map B
-
-To this should be added the data geographic coverage in b'rackets (Canada) as in Reference Map A (Canada) OR
-Carte de référence A (Canada) 
-
-
-https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-Di Mascio, A., & Green, A. J. (2009). The Canadian Century Research Infrastructure: Enabling Humanities and Social Science Research in the Digital Age. Digital Studies/le Champ Numérique, 1(2). DOI: http://doi.org/10.16995/dscn.108
-
-Alex
-
-OMG http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-READ & END RESULTS
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
-
-See also 
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-READ & END RESULTS
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
-
-WHEN slide 7 https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf
-
-intro to the microdata files including sample sizes https://ccri.library.ualberta.ca/enoverview/microdata/index.html
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm
-
-http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-francais/index.php@option=com_content&task=view&id=46&itemid=18.htm
-
-
-
-
-
-
-
+#### 3.2 Using the Contextual Database
+The User Guide is essential. In particular, please see the User Guide topics, **Corpus**, **Thematic Index**, and **How to use**.
