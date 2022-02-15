@@ -1,6 +1,13 @@
 # CCRI Canadian historical census data and materials, 1911 - 1951
 
-ver. February 14, 2022
+> ver. February 14, 2022
+
+## Table of Contents
+
+- <a href="#what-is-the-ccri">What is the CCRI</a>
+- <a href="why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
+- <a href="#where-to-start">Where to start?</a>
+- <a href="#ccri-contextual-database">CCRI Contextual database</a>
 
 ## What is the CCRI?
 
