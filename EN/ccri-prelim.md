@@ -79,16 +79,19 @@ You can map the summary data by either Census districts or Census subdistricts f
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
 
 > Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.
+<br>
 
 | **Year** | **Total National Population** <br /> *(according to published census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 | 
 
+<br>
 ### 2.1 Access CCRI microdata
 1911  
 - [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1911census/database/index.html)     
 - [_codebook for 1911_](https://ccri.library.ualberta.ca/en1911census/codes/index.html)  
+
 1921    
 - [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)  
 - [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)  
@@ -100,12 +103,12 @@ The following microdata documentation applies to all census years.
 
 #### 2.2.1 Compare CCRI census variables
 
-* [See list of core census variables: CCRI variables that are identical in each of the five censuses](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf)   
+* See list of core census variables: [CCRI variables that are identical in each of the five censuses](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf)   
 * Codebook
-** Browse topics: [High-level CCRI census variable groupings](https://ccri.library.ualberta.ca/endatabase/variables/index.html),
-** Drill down by variables: navigate to **The Database** (upper menu) and select **Variables** ,
-** Find your variable codebook: select your variable grouping, and variables of interest.  (The "Derived" grouping covers several topics.)
-** The codebook for your variable(s) of interest provides detailed informaton including, the years where the variable appears, and further details (drilling down by year, e.g., answer coding).
+  * Browse topics: [High-level CCRI census variable groupings](https://ccri.library.ualberta.ca/endatabase/variables/index.html),
+  * Drill down by variables: navigate to **The Database** (upper menu) and select **Variables** ,
+  * Find your variable codebook: select your variable grouping, and variables of interest.  (The "Derived" grouping covers several topics.)
+  * The codebook for your variable(s) of interest provides detailed informaton including, the years where the variable appears, and further details (drilling down by year, e.g., answer coding).
 * Codebook ([option 2](http://web5.uottawa.ca/ccri/CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm), bilingual)
 * [See also list of non-core CCRI census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf)
 
@@ -122,7 +125,7 @@ The following microdata documentation applies to all census years.
 
 CCRI created harmonized geography for the selection and aggregation of Census microdata. Census Districts are smaller than provinces and territories, and Census Subdistricts and Indian Reserves are in turn breakdowns of Census Districts.
 
-The University of Toronto was responsible for [archiving some 91 reference maps]((http://mercator.geog.utoronto.ca/ccri/referencemaps.htm) of CCRI's geographies. The maps are organized by census year and level of detail. Level of detail: the provincial and territorial reference maps show both Census Districts and Census Subdistricts (and where relevant, Indian Reserves), while the Canada reference maps only show Census Districts. Number of reference maps: where one reference map is insuffient to clearly show all geographies, then a Reference Map B (inset map) is provided with enlargements of areas not shown adequately in Reference Map A.
+The University of Toronto was responsible for archiving [91 reference maps](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm) of CCRI's geographies. The maps are organized by census year and level of detail. Level of detail: the provincial and territorial reference maps show both Census Districts and Census Subdistricts (and where relevant, Indian Reserves), while the Canada reference maps only show Census Districts. Number of reference maps: where one reference map is insuffient to clearly show all geographies, then a Reference Map B (inset map) is provided with enlargements of areas not shown adequately in Reference Map A.
 
 ##### [Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
