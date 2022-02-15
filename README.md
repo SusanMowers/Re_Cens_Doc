@@ -1,2 +1,4 @@
-# Re_Cens_Doc
-Repository for historical Census documentation - EN &amp; FR
+## Looking for gold
+#### Documenting historical Censuses of Canada (Re_Cens_Doc)
+
+# CCRI 
