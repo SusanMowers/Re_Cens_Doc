@@ -52,15 +52,15 @@ As happened to me when compiling this information, I hope that some of this info
 
 Consult these excel files containing historical Census of Caanda data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a  selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
 
-The Excel table names found below follow the naming convention, CCRI_PUB_YYYY_V#T#.xls, while the variable look-up descriptions follow the naming convention, YYYY_V#T#_Variable.pdf.
+The Excel table names found below follow the naming convention, CCRI_PUB_YYYY_V#T#.xls, while the variable name look-ups (descriptions) follow the naming convention, YYYY_V#T#_Variable.pdf.
 
 #### Access aggregate data and geography
 
-* [1911 excel tables & variable look-up descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
-* [1921 excel tables & variable look-up descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
-* [1931 excel tables & variable look-up descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
-* [1941 excel tables & variable look-up descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
-* [1951 excel tables & variable look-up descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
+* [1911 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
+* [1921 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
+* [1931 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
+* [1941 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
+* [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
 
 ##### Want to map summary data?
 
