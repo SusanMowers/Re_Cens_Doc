@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - <a href="#what-is-the-ccri">What is the CCRI</a>
-- <a href="why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
+- <a href="#why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
 - <a href="#where-to-start">Where to start?</a>
 - <a href="#ccri-contextual-database">CCRI Contextual database</a>
 
