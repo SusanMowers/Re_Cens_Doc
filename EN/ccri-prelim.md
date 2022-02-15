@@ -80,21 +80,18 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 
 > Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.
 
-| Year | Total National Population <br /> according to published census volumes (1) | CCRI Sample | % |
+| **Year** | **Total National Population** <br /> *(according to published census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
-| 1921 |           8 788 483           |   367 475   | 4 |
-
-
-_(1) **Total national population**, according to published census volumes._  
+| 1921 |           8 788 483           |   367 475   | 4 | 
 
 ### 2.1 Access CCRI microdata
 1911  
-[Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1911census/database/index.html)     
-  [_codebook for 1911_](https://ccri.library.ualberta.ca/en1911census/codes/index.html)  
+- [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1911census/database/index.html)     
+- [_codebook for 1911_](https://ccri.library.ualberta.ca/en1911census/codes/index.html)  
 1921    
-[Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)  
-  [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)  
+- [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)  
+- [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)  
 *The website refers to microdata as "Databases". The above data files are public, allowable because these censuses are older than the 92-year period when Canadians' censuses must be kept private.
 
 ### 2.2 Access data documentation
