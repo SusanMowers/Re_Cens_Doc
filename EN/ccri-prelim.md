@@ -1,8 +1,8 @@
-# CCRI Canadian historical census data and materials, 1911 - 1951
+# CCRI Canadian historical Census data and materials, 1911 - 1951
 
 > ver. February 14, 2022
 
-## Table of Contents
+## Table of contents
 
 - <a href="#what-is-the-ccri">What is the CCRI</a>
 - <a href="#why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
@@ -11,9 +11,9 @@
 
 ## What is the CCRI?
 
-The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009.  [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html)   collaborated to produce a wealth of interrelated detailed data centred on Canada's original census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
+The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009. [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html) collaborated to produce a wealth of interrelated detailed data centred on Canada's original census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
 
-The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“.[(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf)
+The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“ [(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf).
 
 Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.
 
@@ -29,17 +29,17 @@ It should be highlighted that CCRI data and related materials are also available
 
 ### Reasons why CCRI didn't release their Census data and materials in "one" place
 
-#### 1. Privacy protections
+#### Privacy protection
 
-Privacy of Canadians' census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html)
+Privacy of Canadians' census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
-As a result, only the [CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases". Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See [the CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census micro data in the CRDCN. Looking ahead, the 1931 micro data file is eligible for public release in late 2023.
+As a result, only the [CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases". Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See [the CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
 
-#### 2. Archiving of CCRI resources across partner university archives
+#### Archiving of CCRI resources across partner university archives
 
 ###### A network of archives
 
-CCRI archiving efforts were shared between several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, and not a single portal, was the focus because of the scope of the archiving, first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation,  supporting CCRI data) and second, privacy protections.
+CCRI archiving efforts were shared between several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, rather than a single portal, was the focus because of the scope of the archiving: first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation, supporting CCRI data); and second, privacy protections.
 
 ###### Source archives
 
@@ -55,9 +55,9 @@ As happened to me when compiling this information, I hope that some of this info
 
 ## CCRI data sources
 
-### 1. Selected Published Census Data Tables
+### 1. Selected published Census data tables
 
-Consult these excel files containing historical Census of Caanda data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a  selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
+Consult these excel files containing historical Census of Caanda data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
 
 The Excel table names found below follow the naming convention, CCRI_PUB_YYYY_V#T#.xls, while the variable name look-ups (descriptions) follow the naming convention, YYYY_V#T#_Variable.pdf.
 
