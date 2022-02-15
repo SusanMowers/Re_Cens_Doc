@@ -11,7 +11,7 @@
 
 ## What is the CCRI?
 
-The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009. [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html) collaborated to produce a wealth of interrelated detailed data centred on Canada's original census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
+The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009. [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html) collaborated to produce a wealth of interrelated detailed data centred on Canada's original Census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized Census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
 
 The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“ [(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf).
 
@@ -33,7 +33,7 @@ It should be highlighted that CCRI data and related materials are also available
 
 Privacy of Canadians' census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
-As a result, only the [CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases". Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See [the CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
+As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases." Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
 
 #### Archiving of CCRI resources across partner university archives
 
@@ -57,9 +57,9 @@ As happened to me when compiling this information, I hope that some of this info
 
 ### 1. Selected published Census data tables
 
-Consult these excel files containing historical Census of Caanda data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
+Consult these excel files containing historical Census of Canada data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
 
-The Excel table names found below follow the naming convention, CCRI_PUB_YYYY_V#T#.xls, while the variable name look-ups (descriptions) follow the naming convention, YYYY_V#T#_Variable.pdf.
+The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
 
 #### Access aggregate data and geography
 
@@ -78,12 +78,13 @@ You can map the summary data by either Census districts or Census subdistricts f
 
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
 
-_Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions._
+> Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.
 
 | Year | Total National Population (1) | CCRI Sample | % |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
+|:----:|:-----------------------------:|:-----------:|:-:|
 
 _(1) **Total national population**, according to published census volumes._  
 ### 2.1 Access CCRI microdata
