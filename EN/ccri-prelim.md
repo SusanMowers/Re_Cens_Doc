@@ -36,7 +36,11 @@ CCRI archiving efforts were shared between several universities with the collabo
 
 ###### Source archives
 
-At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the [University of Alberta Dataverse]([https://dataverse.scholarsportal.info/dataverse/CCRI)), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html). Nonetheless, much can be gained from perusing this page for an overview of the range of resources found on these websites and others.
+At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the [University of Alberta Dataverse]([https://dataverse.scholarsportal.info/dataverse/CCRI)), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html). 
+
+In addition to these archive sites, the [project web site](http://www.ccri.uottawa.ca/) was hosted at University of Ottawa. 
+
+Considering that there are several CCRI partner web sites, much can be gained from perusing this page for an overview of the range of resources available from these websites and other platforms.
 
 ## Where to start?
 
