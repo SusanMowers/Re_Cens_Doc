@@ -142,7 +142,6 @@ See **Provincial or Territorial Reference Maps**. Reference maps showing Census 
 ### 3. CCRI Census Geography Boundary Files
 
 Boundary files for CCRI Census Districts and Census Subdistricts are available from Scholars GeoPortal.  
-**RESTRICTED TO CANADIAN UNIVERSITIES AND COLLEGES**
 
 #### 3.1 Uses
 
