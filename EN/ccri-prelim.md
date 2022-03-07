@@ -89,7 +89,7 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
 
-<br/><br/>
+<br/>
 
 ### 2.1 Access CCRI microdata
 
