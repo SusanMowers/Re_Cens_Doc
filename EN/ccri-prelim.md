@@ -49,7 +49,7 @@ The CCRI archive gateways are: the [University of Alberta](https://ccri.library.
 
 In addition, the other important to CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html).
 
-Considering there various CCRI partner web sites above, perusing this page first is recommended for an overview of the range of available resources from not just these websites but data repositories and other services.
+Considering these various CCRI partner web sites above and their sometimes complicated architecture, perusing this page first is recommended for an overview of the range of available CCRI data resources from not just these websites, but other data repositories and platforms as well.
 <br/><!-- Susan TO SHANNON: Added line break -->
 
 ## Where to start?
