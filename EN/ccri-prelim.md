@@ -62,7 +62,7 @@ Navigation help
 
 | **Section** | **Topic** | **Description** |
 |:----:|:-----------------------------:|:-----------:|
-| 1. |         |   **Selected published Census data table**s   | Use CCRI aggregate data (Excel) |
+| 1. |    **Selected published Census data table**s   | Use CCRI aggregate data (Excel) |
 | 1.l |           Access aggregate data           |   |
 | 1.2 |           Want to map summary data?           |   |
 | 2 |           **Microdata**           |   |
