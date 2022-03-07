@@ -1,6 +1,6 @@
 # CCRI Canadian historical Census data and materials, 1911 - 1951
 
-> ver. February 14, 2022
+> ver. March 7, 2022
 
 ## Table of contents<!-- Susan TO SHANNON: I will fixed the table of contents so it displays as a cleaner table - should I add more info to this like CCRI microdata, CCRI aggregate data? -->
 
