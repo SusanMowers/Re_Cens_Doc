@@ -58,9 +58,9 @@ Start with CCRI's data sources: (1) aggregate data, (2) microdata, and (3) geogr
 
 I hope, as happened with me, when compiling this page, that you will become more aware of some historical Census of Population of Canada data which you may not have known about before, and that you will be able to more readily find and use key sources of information from the 1911 - 1951 decennial Canadian censuses.
 
-Navigation help - for your convenience, here are the major links for navigating CCRI Data Sources:
+Navigation help - here are the major links for navigating CCRI Data Sources for your convenience.
 
-|  | **Section** | **Highlight** |
+|  | <sub>>**Section** | **Highlight** |
 |:----:|:-----------------------------:|:-----------:|
 | **1** |    **Selected published Census data table**s   | Use Excel-ready aggregate data  |
 | 1.1 |           Access aggregate data           |   |
@@ -79,7 +79,7 @@ Navigation help - for your convenience, here are the major links for navigating 
 | **4** |           **CCRI Contextual database**          | Primary historical sources pertaining to the Census  |
 | 4.1 |           Censuses in Context          |   |
 | 4.2 |           Coverage of the Contextual Database         |   |
-| 4.3 |           Using the Contextual Database         |   |
+| 4.3 |           Using the Contextual Database        | </sub>   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
