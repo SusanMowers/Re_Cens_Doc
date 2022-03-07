@@ -41,7 +41,7 @@ As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.c
 
 #### - A network of archives
 
-CCRI archiving efforts were shared between several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, rather than a single portal, was the focus because of the scope of the archiving: first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation, supporting CCRI data); and second, privacy protections.
+CCRI archiving efforts were shared among several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, rather than a single portal, was the focus because of the scope of the archiving: first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation, supporting CCRI data); and second, privacy protections.
 
 #### - Source archives
 
