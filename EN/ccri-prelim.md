@@ -58,14 +58,14 @@ Start with CCRI's data sources: (1) aggregate data, (2) microdata, and (3) geogr
 
 I hope, as happened with me, when compiling this page, that you will become more aware of some historical Census of Population of Canada data which you may not have known about before, and that you will be able to more readily find and use key sources of information from the 1911 - 1951 decennial Canadian censuses.
 
-Navigation help for **CCRI Data Sources**:
+Navigation help **CCRI Data Sources** by topics:
 
-|  | <sub>**Sections** | **<sub>Highlights</sub>** |
+|  | <sub>**Topic** | **<sub>Highlights</sub>** |
 |----|-----------------------------|:-----------:|
-| **<sub>1** |    **<sub>Selected published Census data tables</sub>**   | <sub>Excel-ready aggregate data</sub>   |
+| **<sup>1** |    **<sup>Selected published Census data tables</sup>**   | <spb>Excel-ready aggregate data</sup>   |
 | <sub>1.1 |           <sub>Access aggregate data</sub>            |   |
 | <sub>1.2 |           <sub>Want to map summary data?</sub>            |   |
-| <sub>**2** |          <sub> **CCRI Census microdata**           | <sub>Analyse CCRI sample microdata</sub>    |
+| <sup>**2** |          <sup>**CCRI Census microdata**</sup>           | <sup>Analyse CCRI sample microdata</sup>    |
 | <sub>2.1 |           <sub>Access CCRI microdata</sub>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
 |  |           <sub>*Note, privacy protection*</sub>           |   |
@@ -73,7 +73,7 @@ Navigation help for **CCRI Data Sources**:
 | <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
 | <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
 | <sub>2.2.4 |          <sub> Methodology documentation</sub>           |   |
-| <sub>**3** |           <sub>**Census Geography Boundary Files**</sub>           | <sub>GIS and spatial analysis</sub>  |
+| <sup>**3** |           <sup>**Census Geography Boundary Files**</sup>           | <sup>GIS and spatial analysis</sup>  |
 | <sub>3.1 |           <sub>Uses          |   |
 | <sub>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
 | <sub>**4** |           <sub>**CCRI Contextual database**</sub>           | <sub>Primary historical sources</sub>   |
