@@ -19,7 +19,7 @@ Looking further at the project’s architecture, or “[Green Balloons]( http://
 
 ## Why another web page about CCRI's historical Census of Canada resources?
 
-#### Get to know what CCRI data is available and where to find it ...
+### Get to know what CCRI data is available and where to find it ...
 
 This web posting introduces the ambitious range of CCRI's Census data for Canada's decennial censuses between 1911 and 1951.
 
@@ -27,22 +27,22 @@ Knowing where to look for CCRI Census data and materials may be very helpful for
 
 It should be highlighted that CCRI data and related materials are also available in French. All CCRI archives provide both English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web.*
 
-### Reasons why CCRI didn't release their Census data and materials in "one" place
+## Reasons why CCRI didn't release their Census data and materials in "one" place
 
-#### Privacy protection
+### Privacy protection
 
 Privacy of Canadians' Census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
 As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases." Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
 <br/>
 
-#### Archiving of CCRI resources across partner university archives
+### Archiving of CCRI resources across partner university archives
 
-###### A network of archives
+#### A network of archives
 
 CCRI archiving efforts were shared between several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, rather than a single portal, was the focus because of the scope of the archiving: first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation, supporting CCRI data); and second, privacy protections.
 
-###### Source archives
+#### Source archives
 
 At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html). In addition to these archive sites, the [project web site](http://www.ccri.uottawa.ca/) was hosted at University of Ottawa.
 
