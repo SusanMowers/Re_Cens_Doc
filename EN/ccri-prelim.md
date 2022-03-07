@@ -62,11 +62,11 @@ Navigation help **CCRI Data Sources** by topics:
 
 |  | <sub>**Topic** | **<sub>Highlights</sub>** |
 |----|-----------------------------|:-----------:|
-| **<sup>1** |    **<sup>Selected published Census data tables</sup>**   | <spb>Excel-ready aggregate data</sup>   |
-| <sub>1.1 |           <sub>Access aggregate data</sub>            |   |
-| <sub>1.2 |           <sub>Want to map summary data?</sub>            |   |
-| <sup>**2** |          <sup>**CCRI Census microdata**</sup>           | <sup>Analyse CCRI sample microdata</sup>    |
-| <sub>2.1 |           <sub>Access CCRI microdata</sub>            |   |
+| **<sub>1** |    **<sub>Selected published Census data tables</sub>**   | <sub>Excel-ready aggregate data</sub>   |
+| <sup>1.1 |           <sup>Access aggregate data</sup>            |   |
+| <sup>1.2 |           <sup>Want to map summary data?</sup>            |   |
+| <sub>**2** |          <sub>**CCRI Census microdata**</sub>           | <sub>Analyse CCRI sample microdata</sub>    |
+| <sup>2.1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
 |  |           <sub>*Note, privacy protection*</sub>           |   |
 | <sub>2.2.1 |           <sub>Compare CCRI census variables</sub>           |   |
