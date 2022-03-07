@@ -144,16 +144,15 @@ The University of Toronto was responsible for archiving all [91 reference maps](
 2. The provincial and territorial reference maps show tbe boundaries of Census Districts, Census Subdistricts, and Indian Reserves as well, as the case may be.
 3. The number of reference maps varies by level of detail. Uusally there is only one Reference Map A.  But where one reference map was insuffient to show all boundaries clearly, then a second Reference Map "B" (inset map) was produced to show enlargements of higher population areas whose boundaries not displayed clearly in Reference Map A.
 
-##### [Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
+##### [2.2.3.1 Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
 See **Canada Reference Maps**. Reference maps by year. Notable lists of Census District codes and names (_list_of_CDs.pdf) for each year. on the University of Toronto [Distribution site for CCRI Geographic reference map files].
 
-###### [Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
+###### [2.2.3.2 Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
 See **Provincial or Territorial Reference Maps**. Reference maps showing Census Districts and Census Subdistricts by Census year, and then by provinces and territories.
 
-
-##### Alternatively, do you want to use GIS?
+###### 2.2.3.3 Alternatively, do you want to use GIS?
 
 *Reconstructed Census Geography GIS layers (boundary files) are provided for every Census year*. You can summarize CCRI data by Census districts or Census subdistricts, and using the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
