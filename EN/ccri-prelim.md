@@ -65,7 +65,7 @@ Navigation help - here are the major links for navigating **CCRI Data Sources** 
 | **<sub>1** |    **<sub>Selected published Census data tables</sub>**   | <sub>Excel-ready aggregate data</sub>   |
 | <sub>1.1 |           <sub>Access aggregate data</sub>            |   |
 | <sub>1.2 |           <sub>Want to map summary data?</sub>            |   |
-| <sub>**2** |          <sub> **Microdata**           | <sub>Analyse CCRI sample microdata</sub>    |
+| <sub>**2** |          <sub> **CCRI Census microdata**           | <sub>Analyse CCRI sample microdata</sub>    |
 | <sub>2.1 |           <sub>Access CCRI microdata</sub>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
 |  |           <sub>Note, privacy protection</sub>           |   |
