@@ -60,26 +60,26 @@ I hope, as happened with me, when compiling this page, that you will become more
 
 Navigation help - here are the major links for navigating CCRI Data Sources for your convenience.
 
-|  | <sub>>**Section** | **Highlight** |
+|  | <sub>**Sections** | **<sub>Highlights</sub> ** |
 |:----:|:-----------------------------:|:-----------:|
-| **1** |    **Selected published Census data table**s   | Use Excel-ready aggregate data  |
-| 1.1 |           Access aggregate data           |   |
-| 1.2 |           Want to map summary data?           |   |
-| **2** |           **Microdata**           | Analyse CCRI sample microdata   |
-| 2.1 |           Access CCRI microdata           |   |
-| 2.2 |           Access CCRI data documentationa           |   |
-|  |           Note also, data confidentiality           |   |
-| 2.2.1 |           Compare CCRI census variables          |   |
-| 2.2.2 |           Official Census of Population of Canada documentation           |   |
-| 2.2.3 |           Consult reference maps         |   |
-| 2.2.4 |           Methodology documentation          |   |
-| **3** |           **Census Geography Boundary Files**          | GIS and spatial analysis |
-| 3.1 |           Uses          |   |
-| 3.2 |           Access CCRI boundary files with detailed metadata           |   |
-| **4** |           **CCRI Contextual database**          | Primary historical sources pertaining to the Census  |
-| 4.1 |           Censuses in Context          |   |
-| 4.2 |           Coverage of the Contextual Database         |   |
-| 4.3 |           Using the Contextual Database        | </sub>   |
+| **<sub>1** |    **<sub>Selected published Census data tables</sub>**   | <sub>Use Excel-ready aggregate data</sub>   |
+| <sub>1.1 |           <sub>Access aggregate data</sub>            |   |
+| <sub>1.2 |           <sub>Want to map summary data?</sub>            |   |
+| <sub>**2** |          <sub> **Microdata**           | <sub>Analyse CCRI sample microdata</sub>    |
+| <sub>2.1 |           <sub>Access CCRI microdata</sub>            |   |
+| <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
+|  |           ****Note also, privacy</sub>           |   |
+| <sub>2.2.1 |           <sub>Compare CCRI census variables</sub>           |   |
+| <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
+| <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
+| <sub>2.2.4 |          <sub> Methodology documentation</sub>           |   |
+| <sub>**3** |           <sub>**Census Geography Boundary Files**</sub>           | <sub>GIS and spatial analysis</sub>  |
+| <sub>3.1 |           <sub>Uses          |   |
+| <sub>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
+| <sub>**4** |           <sub>**CCRI Contextual database**</sub>           | <sub>Primary historical sources</sub>   |
+| <sub>4.1 |           <sub>Censuses in Context</sub>           |   |
+| <sub>4.2 |           <sub>Coverage of the Contextual Database</sub>          |   |
+| <sub>4.3 |           <sub>Using the Contextual Database</sub>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
