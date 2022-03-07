@@ -59,6 +59,7 @@ Navigation help
 
 - You may want to right click on these links to open the links in a new tab, while keeping this page open in your browser.
 - For your convenience, links for navigating CCRI Data Sources follow below.
+
 | **Section** | **Topic** | **Description** |
 |:----:|:-----------------------------:|:-----------:|
 | 1. |         |   **Selected published Census data table**s   | Use CCRI aggregate data (Excel) |
