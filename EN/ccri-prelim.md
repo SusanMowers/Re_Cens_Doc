@@ -79,7 +79,7 @@ The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V
 
 You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
-<br/><br/><!-- Susan TO SHANNON: Added TWO line breaks -->
+<br/><!-- Susan TO SHANNON: Reduced this to ONE line break which I think, being on a new line. equals two line breaks -->
 ### 2. Microdata
 
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
