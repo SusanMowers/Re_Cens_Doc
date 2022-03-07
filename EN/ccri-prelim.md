@@ -57,8 +57,7 @@ I hope, as happened with me, when compiling this page, that you will become more
 
 Navigation help
 
-- You may want to right click on these links to open the links in a new tab, while keeping this page open in your browser.
-- For your convenience, links for navigating CCRI Data Sources:
+For your convenience, links for navigating CCRI Data Sources:
 
 |  | **Section** | **Highlight** |
 |:----:|:-----------------------------:|:-----------:|
@@ -81,6 +80,7 @@ Navigation help
 | 4.2 |           Coverage of the Contextual Database         |   |
 | 4.3 |           Using the Contextual Database         |   |
 
+You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
 
 <br/><!-- Susan TO SHANNON: Added line break -->
