@@ -28,7 +28,7 @@ Knowing where to look for CCRI Census data and materials may be very helpful for
 
 It should be highlighted that CCRI data and related materials are also available in French. All CCRI archives provide both English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web.*
 <br/><!-- Susan TO SELF & SHANNON: Does this equal 2 line breaks -->
-## Reasons why CCRI didn't release their Census data and materials in "one" place
+## Reasons why CCRI didn't release their Census data and materials all in "one" place
 
 ### Privacy protection
 
