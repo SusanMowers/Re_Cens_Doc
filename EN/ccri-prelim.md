@@ -62,10 +62,10 @@ Navigation help **CCRI Data Sources** by topics:
 
 |  | <sup>**Topic** | **<sup>Highlights</sup>** |
 |----|-----------------------------|:-----------:|
-| **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI Excel-ready aggregate data</sup>   |
+| **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>1.1 |           <sup>Access aggregate data</sup>            |   |
 | <sup>1.2 |           <sup>Want to map summary data?</sup>            |   |
-| <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse CCRI sample microdata</sup>    |
+| <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
 | <sup>2.1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
 |  |           <sub>*Note, privacy protection*</sub>           |   |
@@ -73,7 +73,7 @@ Navigation help **CCRI Data Sources** by topics:
 | <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
 | <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
 | <sub>2.2.4 |          <sub> Methodology documentation</sub>           |   |
-| <sup>**3** |           <sup>**CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
+| <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
 | <sub>3.1 |           <sub>Uses          |   |
 | <sub>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
 | <sub>**4** |           <br/><sub>**CCRI CONTEXTUAL DATABASE**</sub>           | <sub>Primary historical sources</sub>   |
