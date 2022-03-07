@@ -58,7 +58,7 @@ I hope, as happened with me, when compiling this page, that you will become more
 Navigation help
 
 - You may want to right click on these links to open the links in a new tab, while keeping this page open in your browser.
-- For your convenience, links for navigating CCRI Data Sources follow below.
+- For your convenience, here are links for CCRI Data Sources.
 
 | **Section** | **Topic** | **Description** |
 |:----:|:-----------------------------:|:-----------:|
@@ -76,8 +76,11 @@ Navigation help
 | 3 |           **Census Geography Boundary Files**          | GIS and spatial analysis |
 | 3.1 |           Uses          |   |
 | 3.2 |           Access CCRI boundary files with detailed metadata           |   |
-| 4 |           CCRI Contextual database          |   |
+| 4 |           **CCRI Contextual database**          | Primary historical sources pertaining to the Census  |
 | 4.1 |           Censuses in Context          |   |
+| 4.2 |           Coverage of the Contextual Database         |   |
+| 4.3 |           Using the Contextual Database         |   |
+
 
 
 <br/><!-- Susan TO SHANNON: Added line break -->
@@ -218,17 +221,17 @@ Boundary files for CCRI Census Districts and Census Subdistricts are available f
 
 From the database user guide, and from the [University of Ottawa CCRI archive](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=306&itemid=91.htm)
 
-### 1. Censuses in Context
+### 4.1 Censuses in Context
 
 ***Documenting and Understanding the Making of Early 20th Century Canadian Census***
 
 This database is the result of the project's approach to reflect the *organization of censuses as a complex initiative, influenced by the major political issues of the day as well as relations between the State and civil society.*  The database records *inform us on issues as fundamental as State construction, mechanisms ensuring State legitimacy, the role of cultural intermediaries, etc.*
 
-### 2. Coverage of the Contextual Database
+### 4.2 Coverage of the Contextual Database
 
 *Using varied documentation, especially the media of the period, we have been able to gather valuable information on the organization, execution, and reception of censuses across Canada from 1911 to 1951. The ContextData database comprises more than 16,000 records. Nearly 170 newspapers as well as Canadian parliamentary debates and some provincial legislative debates were systematically searched during the months preceding and following the taking of the Census.*
 
-### 3. Access and Use of the Contextual database
+### 4.3 Access and Use of the Contextual database
 
 #### 3.1 Access the Database and User Guide
 The integrated Contextual database with a detailed user guide is found at the [Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB).
