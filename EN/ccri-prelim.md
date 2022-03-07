@@ -68,18 +68,18 @@ Navigation help **CCRI Data Sources** by topics:
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
 | <sup>2.1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
-|  |           <sub>*Note, privacy protection*</sub>           |   |
-| <sub>2.2.1 |           <sub>Compare CCRI census variables</sub>           |   |
-| <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
-| <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
-| <sub>2.2.4 |          <sub> Methodology documentation</sub>           |   |
+|  |           <sup>*Note, privacy protection*</sub>           |   |
+| <sup>2.2.1 |           Compare CCRI census variables</sub>           |   |
+| <sup>2.2.2 |           Official Census of Population of Canada documentation</sub>            |   |
+| <sup>2.2.3 |           <sub>Consult reference maps</sub>          |   |
+| <sup>2.2.4 |          <sub> Methodology documentation</sub>           |   |
 | <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
-| <sub>3.1 |           <sub>Uses          |   |
-| <sub>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
-| <sub>**4** |           <br/><sub>**CCRI CONTEXTUAL DATABASE**</sub>           | <sub>Primary historical sources</sub>   |
-| <sub>4.1 |           <sub>Censuses in Context</sub>           |   |
-| <sub>4.2 |           <sub>Coverage of the Contextual Database</sub>          |   |
-| <sub>4.3 |           <sub>Using the Contextual Database</sub>         |   |
+| <sup>3.1 |           <sub>Uses          |   |
+| <sup>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
+| <sup>**4** |           **CCRI CONTEXTUAL DATABASE**</sup>           | <sup>Primary historical sources</sup>   |
+| <sup>4.1 |           Censuses in Context</sub>           |   |
+| <sup>4.2 |           Coverage of the Contextual Database</sup>          |   |
+| <sub\p>4.3 |           Using the Contextual Database</sup>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
