@@ -82,14 +82,14 @@ You can map the summary data by either Census districts or Census subdistricts f
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
 
 > Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.
-<br>
+<br/>
 
 | **Year** | **Total National Population** <br /> *(according to published Census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
 
-<br>
+<br/>
 
 ### 2.1 Access CCRI microdata
 
@@ -101,7 +101,7 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 - [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)
 - [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)
 *The website refers to microdata as "Databases". The above data files are public, allowable because these censuses are older than the 92-year period when Canadians' censuses must be kept private.
-<br><br>
+<br/><br/>
 
 ### 2.2 Access data documentation
 
@@ -120,7 +120,6 @@ The following microdata documentation applies to all Census years.
 * [See also list of non-core CCRI Census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf)
 
 <br> <!--Shannon to SUSAN: added line break -->
-
 #### 2.2.2 Official Census of Population of Canada documentation
 * [Schedules](https://ccri.library.ualberta.ca/enresources/schedules/index.html) (official Census schedules, or Census "questions")
 * [Enumerator instructions](https://ccri.library.ualberta.ca/enresources/enumeratorinstructions/index.html) (official enumerator instructions).
