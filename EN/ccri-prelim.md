@@ -51,24 +51,27 @@ Considering there are several CCRI partner web sites, much can be gained from pe
 
 ## Where to start?
 
-Start with CCRI's data sources: (1) aggregate data, (2) microdata, and (3) geographic boundary files. Included in this section is relevant location information for documentation and metadata, as wel as links to publicly avaiable data. Conclude by investigating (4) investigating CCRI's contextual database.
+Start with CCRI's data sources: (1) aggregate data, (2) microdata, and (3) geographic boundary files. Included in this section is relevant location information for documentation and metadata, as wel as links to publicly avaiable data. And then conclude by investigating (4) investigating CCRI's contextual database.
 
-As happened to me when compiling this information, I hope that you may become more aware of CCRI data which you may not have known about before, and that you will be able to more readily find and use these key sources of the decennial Censuses of Population of Canada, from 1911 to 1951.
+I hope, as happened with me, when compiling this page, that you will become more aware of some historical Census of Population of Canada data which you may not have known about before, and that you will be able to more readily find and use key sources of information from the 1911 - 1951 decennial Canadian censuses.
+
+Navigation help
+
 
 <br/><!-- Susan TO SHANNON: Added line break -->
 ## CCRI data sources
 
 ### 1. Selected published Census data tables
 
-Consult these excel files containing historical Census of Canada data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.
-<br/><!-- Susan TO SHANNON: Maybe added ONE line break -->
+Consult these excel files containing tables of Census of Canada data which have been summarized (or "aggregated") by **Census divisions** and **Census subdivisions**. These aggregate data tables represent a selection made by CCRI of the official Census tables which were published in print. It is a small, interesting selection, intended to be a jumping off point for finding more Census data, especially the detailed microdata (or "databases") produced by CCRI for the years 1911, 1921, 1931, 1941 and 1951.  These Excel tables were produced from  tables were produced from the official published volumes of Canada's Censuses of Population of Canada. CCRI also produced pdf documents describing the content (or variable descriptions), as well as user guide exerpts for understanding these tables.
+<br/><!-- Susan TO SHANNON: added ONE line break -->
 
-#### 1.1 Access aggregate data and geography. 
+#### 1.1 Access aggregate data (and geography) 
 
 The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
 <br/><!-- Susan TO SHANNON: Removed ONE line break -->
 
-* [1911 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
+* [1911 excel tables + Variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
 * [1921 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
 * [1931 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
 * [1941 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
