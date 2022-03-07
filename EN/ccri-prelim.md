@@ -32,7 +32,7 @@ It should be highlighted that CCRI data and related materials are also available
 
 ### Privacy protection
 
-Privacy of Canadians' Census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census -- disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
+Privacy of Canadians' Census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
 As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases." Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
 <br/>
