@@ -133,7 +133,7 @@ The following microdata documentation applies to all Census years.
   * A Census question guide displays. The guide comprises sections A to I, covering details for each question, including who was asked each question, how was it asked, enumerator instructions and variable (click on variable for how the question was recorded).
 <br/> <!--Shannon to SUSAN: added line break -->
 
-#### 2.2.3 Consult maps
+#### 2.2.3 Consult reference maps
 
 CCRI created harmonized geographic areas across 1911 to 1951 for the selection and aggregation of Census microdata. 
 
