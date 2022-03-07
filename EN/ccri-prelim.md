@@ -135,9 +135,14 @@ The following microdata documentation applies to all Census years.
 
 #### 2.2.3 Consult maps
 
-CCRI created harmonized geography for the selection and aggregation of Census microdata. Census Districts are smaller than provinces and territories, and Census Subdistricts and Indian Reserves are in turn breakdowns of Census Districts.
+CCRI created harmonized geographic areas across 1911 to 1951 for the selection and aggregation of Census microdata. 
 
-The University of Toronto was responsible for archiving [91 reference maps](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm) of CCRI's geographies. The maps are organized by Census year and level of detail. Level of detail: the provincial and territorial reference maps show both Census Districts and Census Subdistricts (and where relevant, Indian Reserves), while the Canada reference maps only show Census Districts. Number of reference maps: where one reference map is insuffient to clearly show all geographies, then a Reference Map B (inset map) is provided with enlargements of areas not shown adequately in Reference Map A.
+Consult the reference maps below to see CCRI Census Districts, which are smaller than provinces and territories, as well as Census Subdistricts and Indian Reserves which are breakdowns of the Census Districts.
+
+The University of Toronto was responsible for archiving all [91 reference maps](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm) of Census Districts and Census Subdistricts. The reference maps are organized by Census year and by level of detail as follows. 
+1. The Canada reference maps show CCRI Census District boundaries only.  Please note the accompagning list of the names of Census Districts for each census year.
+2. The provincial and territorial reference maps show tbe boundaries of Census Districts, Census Subdistricts, and Indian Reserves as well, as the case may be.
+3. The number of reference maps varies by level of detail. Uusally there is only one Reference Map A.  But where one reference map was insuffient to show all boundaries clearly, then a second Reference Map "B" (inset map) was produced to show enlargements of higher population areas whose boundaries not displayed clearly in Reference Map A.
 
 ##### [Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
@@ -146,7 +151,6 @@ See **Canada Reference Maps**. Reference maps by year. Notable lists of Census D
 ###### [Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
 See **Provincial or Territorial Reference Maps**. Reference maps showing Census Districts and Census Subdistricts by Census year, and then by provinces and territories.
-
 
 
 ##### Alternatively, do you want to use GIS?
