@@ -62,10 +62,10 @@ Navigation help
 
 | **Section** | **Topic** | **Description** |
 |:----:|:-----------------------------:|:-----------:|
-| 1. |    **Selected published Census data table**s   | Use Excel-ready aggregate data  |
-| 1.l |           Access aggregate data           |   |
+| *1.* |    **Selected published Census data table**s   | Use Excel-ready aggregate data  |
+| 1.1 |           Access aggregate data           |   |
 | 1.2 |           Want to map summary data?           |   |
-| 2 |           **Microdata**           | Analyse CCRI sample microdata   |
+| *2* |           **Microdata**           | Analyse CCRI sample microdata   |
 | 2.1 |           Access CCRI microdata           |   |
 | 2.2 |           Access aggregate data           |   |
 |  |           Note also, data confidentiality           |   |
@@ -73,10 +73,10 @@ Navigation help
 | 2.2.2 |           Official Census of Population of Canada documentation           |   |
 | 2.2.3 |           Consult reference maps         |   |
 | 2.2.4 |           Methodology documentation          |   |
-| 3 |           **Census Geography Boundary Files**          | GIS and spatial analysis |
+| *3* |           **Census Geography Boundary Files**          | GIS and spatial analysis |
 | 3.1 |           Uses          |   |
 | 3.2 |           Access CCRI boundary files with detailed metadata           |   |
-| 4 |           **CCRI Contextual database**          | Primary historical sources pertaining to the Census  |
+| *4* |           **CCRI Contextual database**          | Primary historical sources pertaining to the Census  |
 | 4.1 |           Censuses in Context          |   |
 | 4.2 |           Coverage of the Contextual Database         |   |
 | 4.3 |           Using the Contextual Database         |   |
