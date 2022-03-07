@@ -27,8 +27,7 @@ This web posting introduces the ambitious range of CCRI's Census data for Canada
 Knowing where to look for CCRI Census data and materials may be very helpful for those interested in the history of their communities, or larger geographies, as to the make-up of Canada’s peoples, presence of cultural identities and languages, economic classes and education to family and household living during this transformational period.
 
 It should be highlighted that CCRI data and related materials are also available in French. All CCRI archives provide both English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web.*
-
-<br/><!-- Susan TO SHANNON: Added line break -->
+<br/><!-- Susan TO SELF & SHANNON: Does this equal 2 line breaks -->
 ## Reasons why CCRI didn't release their Census data and materials in "one" place
 
 ### Privacy protection
