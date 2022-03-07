@@ -62,10 +62,10 @@ Navigation help **CCRI Data Sources** by topics:
 
 |  | <sub>**Topic** | **<sub>Highlights</sub>** |
 |----|-----------------------------|:-----------:|
-| <br/>>**<sup>1** |    <br/>**<sup>Selected published Census data tables</sup>**   | <br/><sup>Excel-ready aggregate data</sup>   |
+| >**<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | sup>Excel-ready aggregate data</sup>   |
 | <sup>1.1 |           <sup>Access aggregate data</sup>            |   |
 | <sup>1.2 |           <sup>Want to map summary data?</sup>            |   |
-| <br/><sup>**2** |          <br/><sup>**CCRI Census microdata**</sup>           | <br/><sup>Analyse CCRI sample microdata</sup>    |
+| <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse CCRI sample microdata</sup>    |
 | <sup>2.1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
 |  |           <sub>*Note, privacy protection*</sub>           |   |
@@ -73,10 +73,10 @@ Navigation help **CCRI Data Sources** by topics:
 | <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
 | <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
 | <sub>2.2.4 |          <sub> Methodology documentation</sub>           |   |
-| <br/><sup>**3** |           <br/><sup>**Census Geography Boundary Files**</sup>           | <br/><sup>GIS and spatial analysis</sup>  |
+| <sup>**3** |           <sup>**CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
 | <sub>3.1 |           <sub>Uses          |   |
 | <sub>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
-| <br/><sub>**4** |           <br/><sub>**CCRI Contextual database**</sub>           | <br/><sub>Primary historical sources</sub>   |
+| <sub>**4** |           <br/><sub>**CCRI CONTEXTUAL DATABASE**</sub>           | <sub>Primary historical sources</sub>   |
 | <sub>4.1 |           <sub>Censuses in Context</sub>           |   |
 | <sub>4.2 |           <sub>Coverage of the Contextual Database</sub>          |   |
 | <sub>4.3 |           <sub>Using the Contextual Database</sub>         |   |
