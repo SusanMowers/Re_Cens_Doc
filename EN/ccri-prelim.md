@@ -45,9 +45,11 @@ CCRI archiving efforts were shared among several universities with the collabora
 
 #### - Source archives
 
-At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). In addition to these archive sites, note the [host project web site](http://www.ccri.uottawa.ca/) at the University of Ottawa, the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html).
+The CCRI archive gateways are: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
 
-Considering there are several CCRI partner web sites, much can be gained from perusing this page for an overview of the range of resources available from these websites and other platforms.
+In addition, the other important to CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html).
+
+Considering there various CCRI partner web sites above, perusing this page first is recommended for an overview of the range of available resources from not just these websites but data repositories and other services.
 <br/><!-- Susan TO SHANNON: Added line break -->
 
 ## Where to start?
