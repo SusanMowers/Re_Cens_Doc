@@ -63,6 +63,7 @@ As happened to me when compiling this information, I hope that some of this info
 Consult these excel files containing historical Census of Canada data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.
 <br/><!-- Susan TO SHANNON: Maybe added ONE line break -->
 The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
+
 <br/><!-- Susan TO SHANNON: Removed ONE line break -->
 #### Access aggregate data and geography
 
