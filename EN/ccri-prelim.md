@@ -57,6 +57,27 @@ I hope, as happened with me, when compiling this page, that you will become more
 
 Navigation help
 
+- You may want to right click on these links to open the links in a new tab, while keeping this page open in your browser.
+- For your convenience, links for navigating CCRI Data Sources follow below.
+| **Section** | **Topic** | **Description** |
+|:----:|:-----------------------------:|:-----------:|
+| 1. |         |   **Selected published Census data table**s   | Use CCRI aggregate data (Excel) |
+| 1.l |           Access aggregate data           |   |
+| 1.2 |           Want to map summary data?           |   |
+| 2 |           **Microdata**           |   |
+| 2.1 |           Access CCRI microdata           | Analyse CCRI sample microdata   |
+| 2.2 |           Access aggregate data           |   |
+|  |           Note also, data confidentiality           |   |
+| 2.2.1 |           Compare CCRI census variables          |   |
+| 2.2.2 |           Official Census of Population of Canada documentation           |   |
+| 2.2.3 |           Consult reference maps         |   |
+| 2.2.4 |           Methodology documentation          |   |
+| 3 |           **Census Geography Boundary Files**          | GIS and spatial analysis over time |
+| 3.1 |           Uses          |   |
+| 3.2 |           Access CCRI boundary files with detailed metadata           |   |
+| 4 |           CCRI Contextual database          |   |
+| 4.1 |           Censuses in Context          |   |
+
 
 <br/><!-- Susan TO SHANNON: Added line break -->
 ## CCRI data sources
@@ -78,7 +99,7 @@ The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V
 * [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
 <br/><!-- Susan TO SHANNON: Added ONLY 1 line break -->
 
-#### 1.2 Want to map summary data?
+#### 1.2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
 
 You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
