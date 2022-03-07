@@ -43,7 +43,7 @@ As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.c
 
 CCRI archiving efforts were shared among several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, rather than a single portal, was the focus because of the scope of the archiving: first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation, supporting CCRI data); and second, privacy protections.
 
-#### - Source archives
+#### - What are the source archives?
 
 The CCRI archive gateways are: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
 
