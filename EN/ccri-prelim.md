@@ -58,7 +58,7 @@ I hope, as happened with me, when compiling this page, that you will become more
 Navigation help
 
 - You may want to right click on these links to open the links in a new tab, while keeping this page open in your browser.
-- For your convenience, here are links for CCRI Data Sources.
+- For your convenience, links for navigating CCRI Data Sources:
 
 | **Section** | **Topic** | **Description** |
 |:----:|:-----------------------------:|:-----------:|
