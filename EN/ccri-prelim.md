@@ -64,7 +64,7 @@ Navigation help - for your convenience, here are the major links for navigating 
 | 1.2 |           Want to map summary data?           |   |
 | **2** |           **Microdata**           | Analyse CCRI sample microdata   |
 | 2.1 |           Access CCRI microdata           |   |
-| 2.2 |           Access aggregate data           |   |
+| 2.2 |           Access CCRI data documentationa           |   |
 |  |           Note also, data confidentiality           |   |
 | 2.2.1 |           Compare CCRI census variables          |   |
 | 2.2.2 |           Official Census of Population of Canada documentation           |   |
