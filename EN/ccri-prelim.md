@@ -62,10 +62,10 @@ Navigation help **CCRI Data Sources** by topics:
 
 |  | <sub>**Topic** | **<sub>Highlights</sub>** |
 |----|-----------------------------|:-----------:|
-| **<sub>1** |    **<sub>Selected published Census data tables</sub>**   | <sub>Excel-ready aggregate data</sub>   |
+| <br/>>**<sup>1** |    <br/>**<sup>Selected published Census data tables</sup>**   | <br/><sup>Excel-ready aggregate data</sup>   |
 | <sup>1.1 |           <sup>Access aggregate data</sup>            |   |
 | <sup>1.2 |           <sup>Want to map summary data?</sup>            |   |
-| <sub>**2** |          <sub>**CCRI Census microdata**</sub>           | <sub>Analyse CCRI sample microdata</sub>    |
+| <br/><sup>**2** |          <br/><sup>**CCRI Census microdata**</sup>           | <br/><sup>Analyse CCRI sample microdata</sup>    |
 | <sup>2.1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
 |  |           <sub>*Note, privacy protection*</sub>           |   |
@@ -73,10 +73,10 @@ Navigation help **CCRI Data Sources** by topics:
 | <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
 | <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
 | <sub>2.2.4 |          <sub> Methodology documentation</sub>           |   |
-| <sup>**3** |           <sup>**Census Geography Boundary Files**</sup>           | <sup>GIS and spatial analysis</sup>  |
+| <br/><sup>**3** |           <br/><sup>**Census Geography Boundary Files**</sup>           | <br/><sup>GIS and spatial analysis</sup>  |
 | <sub>3.1 |           <sub>Uses          |   |
 | <sub>3.2 |           <sub>Access CCRI boundary files with detailed metadata</sub>            |   |
-| <sub>**4** |           <sub>**CCRI Contextual database**</sub>           | <sub>Primary historical sources</sub>   |
+| <br/><sub>**4** |           <br/><sub>**CCRI Contextual database**</sub>           | <br/><sub>Primary historical sources</sub>   |
 | <sub>4.1 |           <sub>Censuses in Context</sub>           |   |
 | <sub>4.2 |           <sub>Coverage of the Contextual Database</sub>          |   |
 | <sub>4.3 |           <sub>Using the Contextual Database</sub>         |   |
@@ -116,7 +116,7 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 > Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.
 <br/>
 
-| **Year** | **Total National Population** <br /> *(according to published Census volumes)* | **CCRI Sample** | **%** |
+| **Year** | **Total National Population** <br/> *(according to published Census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
