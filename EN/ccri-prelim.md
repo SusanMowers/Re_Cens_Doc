@@ -106,7 +106,7 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 ### 2.2 Access data documentation
 
 The following microdata documentation applies to all Census years.
-<br> <!--Shannon to SUSAN: added line break -->
+<br/> <!--Susan to SHANNON: added line break but only one blank line after -->
 
 #### 2.2.1 Compare CCRI census variables
 
@@ -118,7 +118,7 @@ The following microdata documentation applies to all Census years.
   * The codebook for your variable(s) of interest provides detailed informaton including, the years where the variable appears, and further details (drilling down by year, e.g., answer coding).
 * Codebook ([option 2](http://web5.uottawa.ca/ccri/CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm), bilingual)
 * [See also list of non-core CCRI Census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf)
-<br/> <!--Shannon to SUSAN: added line break -->
+<br/><!--Susan to SHANNON: added line break but only one blank line after -->
 
 #### 2.2.2 Official Census of Population of Canada documentation
 * [Schedules](https://ccri.library.ualberta.ca/enresources/schedules/index.html) (official Census schedules, or Census "questions")
