@@ -71,7 +71,7 @@ Consult these excel files containing tables of Census of Canada data which have 
 The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
 <br/><!-- Susan TO SHANNON: Removed ONE line break -->
 
-* [1911 excel tables + Variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
+* [1911 excel tables + Variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233162&version=1.0)
 * [1921 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
 * [1931 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
 * [1941 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
