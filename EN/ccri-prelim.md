@@ -68,7 +68,7 @@ Navigation help - here are the major links for navigating **CCRI Data Sources** 
 | <sub>**2** |          <sub> **CCRI Census microdata**           | <sub>Analyse CCRI sample microdata</sub>    |
 | <sub>2.1 |           <sub>Access CCRI microdata</sub>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
-|  |           <sub>Note, privacy protection</sub>           |   |
+|  |           <sub>*Note, privacy protection*</sub>           |   |
 | <sub>2.2.1 |           <sub>Compare CCRI census variables</sub>           |   |
 | <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
 | <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
