@@ -15,9 +15,9 @@ The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca
 
 The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“ [(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf).
 
-Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.
+Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.  
 
-<br/><!-- Susan TO SHANNON: Added line break -->
+
 ## Why another web page about CCRI's historical Census of Canada resources?
 
 ### Get to know what CCRI data is available and where to find it ...
