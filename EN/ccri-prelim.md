@@ -135,9 +135,7 @@ The following microdata documentation applies to all Census years.
 
 #### 2.2.3 Consult reference maps
 
-CCRI created harmonized geographic areas across 1911 to 1951 for the selection and aggregation of Census microdata. 
-
-Consult the reference maps below to see CCRI Census Districts, which are smaller than provinces and territories, as well as Census Subdistricts and Indian Reserves which are breakdowns of the Census Districts.
+Consult the reference maps below to see CCRI Census Districts, which are smaller than provinces and territories, as well as Census Subdistricts and Indian Reserves which are breakdowns of the Census Districts. These reference maps are a valuable source of information about the harmonized historical geographic areas created by CCRI, to support the selection, aggregation and and understanding of Census microdata from 1911 to 1951.
 
 The University of Toronto was responsible for archiving all [91 reference maps](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm) of Census Districts and Census Subdistricts. The reference maps are organized by Census year and by level of detail as follows. 
 1. The Canada reference maps show CCRI Census District boundaries only.  Please note the accompagning list of the names of Census Districts for each census year.
