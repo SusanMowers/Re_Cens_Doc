@@ -60,7 +60,7 @@ I hope, as happened with me, when compiling this page, that you will become more
 
 Navigation help - here are the major links for navigating CCRI Data Sources for your convenience.
 
-|  | <sub>**Sections** | **<sub>Highlights</sub> ** |
+|  | <sub>**Sections** | **<sub>Highlights</sub>** |
 |:----:|:-----------------------------:|:-----------:|
 | **<sub>1** |    **<sub>Selected published Census data tables</sub>**   | <sub>Use Excel-ready aggregate data</sub>   |
 | <sub>1.1 |           <sub>Access aggregate data</sub>            |   |
@@ -68,7 +68,7 @@ Navigation help - here are the major links for navigating CCRI Data Sources for 
 | <sub>**2** |          <sub> **Microdata**           | <sub>Analyse CCRI sample microdata</sub>    |
 | <sub>2.1 |           <sub>Access CCRI microdata</sub>            |   |
 | <sub>2.2 |           <sub>Access CCRI data documentationa</sub>            |   |
-|  |           ****Note also, privacy</sub>           |   |
+|  |           <sub>Note, privacy protection</sub>           |   |
 | <sub>2.2.1 |           <sub>Compare CCRI census variables</sub>           |   |
 | <sub>2.2.2 |           <sub>Official Census of Population of Canada documentation</sub>            |   |
 | <sub>2.2.3 |           <sub>Consult reference maps</sub>          |   |
