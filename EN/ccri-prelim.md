@@ -36,7 +36,7 @@ Privacy of Canadians' Census information is mandatory for 92 years after the dat
 As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases." Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
 <br/>
 
-#### Archiving of CCRI resources across partner university archives 
+#### Archiving of CCRI resources across partner university archives
 
 ###### A network of archives
 
@@ -44,7 +44,7 @@ CCRI archiving efforts were shared between several universities with the collabo
 
 ###### Source archives
 
-At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html). In addition to these archive sites, the [project web site](http://www.ccri.uottawa.ca/) was hosted at University of Ottawa. 
+At a high level, the information on this page can be found on the following CCRI web sites: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://www.ccri.uottawa.ca/CCRI/Home.html). In addition to these archive sites, the [project web site](http://www.ccri.uottawa.ca/) was hosted at University of Ottawa.
 
 Considering there are several CCRI partner web sites, much can be gained from perusing this page for an overview of the range of resources available from these websites and other platforms.
 <br/><!-- Susan TO SHANNON: Added line break -->
@@ -60,7 +60,7 @@ As happened to me when compiling this information, I hope that some of this info
 
 ### 1. Selected published Census data tables
 
-Consult these excel files containing historical Census of Canada data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
+Consult these excel files containing historical Census of Canada data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.
 
 The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
 <br/><br/><!-- Susan TO SHANNON: Added TWO line breaks --><!-- Shannon likes 2 line breaks -->
@@ -74,7 +74,7 @@ The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V
 <br/><!-- Susan TO SHANNON: Added ONLY 1 line break -->
 ##### Want to map summary data?
 
-You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.   
+You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
 <br/><br/><!-- Susan TO SHANNON: Added TWO line breaks -->
 ### 2. Microdata
@@ -87,28 +87,30 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 | **Year** | **Total National Population** <br /> *(according to published Census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
-| 1921 |           8 788 483           |   367 475   | 4 | 
+| 1921 |           8 788 483           |   367 475   | 4 |
 
 <br>
 
 ### 2.1 Access CCRI microdata
 
-1911  
-- [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1911census/database/index.html)     
-- [_codebook for 1911_](https://ccri.library.ualberta.ca/en1911census/codes/index.html)  
+1911
+- [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1911census/database/index.html)
+- [_codebook for 1911_](https://ccri.library.ualberta.ca/en1911census/codes/index.html)
 
-1921    
-- [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)  
-- [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)  
+1921
+- [Microdata* (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html)
+- [_codebook for 1921_](https://ccri.library.ualberta.ca/en1921census/codes/index.html)
 *The website refers to microdata as "Databases". The above data files are public, allowable because these censuses are older than the 92-year period when Canadians' censuses must be kept private.
+<br><br>
 
 ### 2.2 Access data documentation
 
 The following microdata documentation applies to all Census years.
+<br> <!--Shannon to SUSAN: added line break -->
 
 #### 2.2.1 Compare CCRI census variables
 
-* See list of core Census variables: [CCRI variables that are identical in each of the five censuses](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf)   
+* See list of core Census variables: [CCRI variables that are identical in each of the five censuses](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf)
 * Codebook
   * Browse topics: [High-level CCRI Census variable groupings](https://ccri.library.ualberta.ca/endatabase/variables/index.html),
   * Drill down by variables: navigate to **The Database** (upper menu) and select **Variables** ,
@@ -117,14 +119,18 @@ The following microdata documentation applies to all Census years.
 * Codebook ([option 2](http://web5.uottawa.ca/ccri/CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm), bilingual)
 * [See also list of non-core CCRI Census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf)
 
+<br> <!--Shannon to SUSAN: added line break -->
+
 #### 2.2.2 Official Census of Population of Canada documentation
-* [Schedules](https://ccri.library.ualberta.ca/enresources/schedules/index.html) (official Census schedules, or Census "questions")  
+* [Schedules](https://ccri.library.ualberta.ca/enresources/schedules/index.html) (official Census schedules, or Census "questions")
 * [Enumerator instructions](https://ccri.library.ualberta.ca/enresources/enumeratorinstructions/index.html) (official enumerator instructions).
-* [Census Guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) (CCRI documentation)  
-  * Select Year / Census schedule of interest  
-  * Scroll down to **Census Schedule Questions**  
-  * Select your Census question of interest  
+* [Census Guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) (CCRI documentation)
+  * Select Year / Census schedule of interest
+  * Scroll down to **Census Schedule Questions**
+  * Select your Census question of interest
   * A Census question guide displays. The guide comprises sections A to I, covering details for each question, including who was asked each question, how was it asked, enumerator instructions and variable (click on variable for how the question was recorded).
+
+<br> <!--Shannon to SUSAN: added line break -->
 
 #### 2.2.3 Consult maps
 
@@ -134,33 +140,42 @@ The University of Toronto was responsible for archiving [91 reference maps](http
 
 ##### [Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
-See **Canada Reference Maps**. Reference maps by year. Notable lists of Census District codes and names (_list_of_CDs.pdf) for each year. on the University of Toronto [Distribution site for CCRI Geographic reference map files].  
+See **Canada Reference Maps**. Reference maps by year. Notable lists of Census District codes and names (_list_of_CDs.pdf) for each year. on the University of Toronto [Distribution site for CCRI Geographic reference map files].
 
 ###### [Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
 See **Provincial or Territorial Reference Maps**. Reference maps showing Census Districts and Census Subdistricts by Census year, and then by provinces and territories.
 
+
+
 ##### Alternatively, do you want to use GIS?
 
 *Reconstructed Census Geography GIS layers (boundary files) are provided for every Census year*. You can summarize CCRI data by Census districts or Census subdistricts, and using the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
+<br> <!-- Shannon to SUSAN: added the single line breaks between the 2.2.1/2/3/4 sections, almost seems like too much space though. Thoughts? -->
 
 #### 2.2.4 Methodology documentation
 
 * [Data Dictionary](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=310&itemid=95.htm). Comprises microdata documentation: [Census guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) || [CCRI Variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm) || [CCRI Coding](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=5&itemid=107.htm) || [Data extract](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=319&itemid=108.htm). Scroll down page for **A Note on CCRI Variables**.
 * [CCRI sampling methodology](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=307&itemid=92.htm). *The CCRI microdata represents a sample of the total national Census populations for each Census year (enumeration). The CCRI has developed a wide range of methods of minimizing and adjusting for inconsistencies in that sample.*
 * [CCRI Geography](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=5&itemid=107.htm). Note also, [CCRI Geographic Reference Table and Geographic fields incorporated into the micro-data](https://ccri.library.ualberta.ca/endatabase/geography/referencetables/index.html)
-* [Data Entry Manuals](https://ccri.library.ualberta.ca/enresources/deo/index.html)  
+* [Data Entry Manuals](https://ccri.library.ualberta.ca/enresources/deo/index.html)
 * [Read-and-Edit Results after data entry](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=766&itemid=283.htm)
+
+<br><br> <!--Shannon to SUSAN: added two line breaks -->
 
 ### 3. CCRI Census Geography Boundary Files
 
-Boundary files for CCRI Census Districts and Census Subdistricts are available from Scholars GeoPortal.  
+Boundary files for CCRI Census Districts and Census Subdistricts are available from Scholars GeoPortal.
+
+
 
 #### 3.1 Uses
 
 * For historical Census mapping and spatial analysis: **Add**, then **download** in full or by area of interest for GIS,
 * For map visualization in Scholars Geoportal or exporting high-resolution map documents.
+
+<br> <!--Shannon to SUSAN: added line break -->
 
 #### 3.2 Access CCRI boundary files with detailed metadata
 
@@ -169,6 +184,8 @@ Boundary files for CCRI Census Districts and Census Subdistricts are available f
 * [Boundary files, 1931 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=3936847664)
 * [Boundary files, 1941 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=2815990161)
 * [Boundary files, 1951 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=1695132658)
+
+<br><br> <!--Shannon to SUSAN: added two line breaks -->
 
 ## CCRI Contextual database
 
