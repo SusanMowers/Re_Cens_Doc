@@ -35,8 +35,7 @@ Privacy of Canadians' Census information is mandatory for 92 years after the dat
 
 As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html) were made publicly available. The website refers to the microdata as "databases." Whereas, restrictions to the 1931, 1941 and 1951 microdata files are managed by the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.
 
-#### Archiving of CCRI resources across partner university archives <!-- Susan TO SHANNON: Added line break -->
-<br/><!-- Susan TO SHANNON: Added line break -->
+#### Archiving of CCRI resources across partner university archives 
 
 ###### A network of archives
 
@@ -63,7 +62,7 @@ As happened to me when compiling this information, I hope that some of this info
 Consult these excel files containing historical Census of Canada data summarized (or "aggregated") by Census divisions and Census subdivisions. These aggregate data tables are a selection of original print Census tables by the CCRI project intended serve as a jumping off point for the more detailed microdata for Canada's 1911 - 1951 censuses.  CCRI produced these Excel summary tables from the published volumes of Census of Population of Canada tables and also produced user guide extracts for these tables.  
 
 The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
-<br/><br/><!-- Susan TO SHANNON: Added TWO line breaks --><Shannon likes 2 line breaks>
+<br/><br/><!-- Susan TO SHANNON: Added TWO line breaks --><Shannon likes 2 line breaks -->
 #### Access aggregate data and geography
 
 * [1911 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10269)
