@@ -2,7 +2,7 @@
 
 > ver. February 14, 2022
 
-## Table of contents
+## Table of contents<!-- Susan TO SHANNON: I will fixed the table of contents so it displays as a cleaner table - should I add more info to this like CCRI microdata, CCRI aggregate data? -->
 
 - <a href="#what-is-the-ccri">What is the CCRI</a>
 - <a href="#why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
