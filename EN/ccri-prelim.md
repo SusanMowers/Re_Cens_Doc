@@ -2,12 +2,12 @@
 
 > ver. March 7, 2022
 
-## Table of contents<!-- Susan TO SHANNON: I will fixed the table of contents so it displays as a cleaner table - should I add more info to this like CCRI microdata, CCRI aggregate data? -->
+## Table of contents<!-- Susan TO SHANNON: I will fix the table of contents so it displays as a cleaner table - should I add more info to this like CCRI microdata, CCRI aggregate data? -->
 
 - <a href="#what-is-the-ccri">What is the CCRI</a>
 - <a href="#why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
 - <a href="#where-to-start">Where to start? CCRI Data and documentation</a>
-- <a href="#ccri-contextual-database">CCRI Contextual database</a>
+- <a href="#ccri-contextual-database">CCRI Contextual Database</a>
 
 ## What is the CCRI?
 
@@ -15,7 +15,7 @@ The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca
 
 The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“ [(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf).
 
-Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.  
+Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.   
 
 
 ## Why another web page about CCRI's historical Census of Canada resources?
@@ -26,7 +26,7 @@ This web posting introduces the ambitious range of CCRI's Census data for Canada
 
 Knowing where to look for CCRI Census data and materials may be very helpful for those interested in the history of their communities, or larger geographies, as to the make-up of Canada’s peoples, presence of cultural identities and languages, economic classes and education to family and household living during this transformational period.
 
-It should be highlighted that CCRI data and related materials are also available in French. All CCRI archives provide both English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web.*
+It should be highlighted that CCRI data and related materials are also available in French. All CCRI archives provide both English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web*.  
 <br/><!-- Susan TO SELF & SHANNON: Does this equal 2 line breaks -->
 ## Two reasons why CCRI didn't release their Census data and materials "all in one place"
 
@@ -41,13 +41,13 @@ As a result, only the CCRI [1911 microdata file](https://ccri.library.ualberta.c
 
 #### - A network of archives
 
-CCRI archiving efforts were shared among several universities with the collaboration of Statistics Canada for the 1931 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI archive web sites. One one-point access to CCRI resources was not a focus for the project. Archiving, rather than a single portal, was the focus because of the scope of the archiving: first, the multiplicity of the CCRI resources (including harmonized concepts and geographies, sophisticated CCRI documentation, supporting CCRI data); and second, privacy protections.
+CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI "web gateway" archives. One one-point discovery and access to CCRI resources was not a focus for the project. Distributed archiving, rather than one single discovery portal, was the focus of the project, after production was completed of the harmonized (time, geography, census concepts) census data and documentation materials. In addtion, archiving had to ensure privacy protections outside of CCRI partner universities' archive sites. 
 
 #### - What are the source archives?
 
-The CCRI archive gateways are: the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
+The CCRI archive "web gateways" are the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
 
-In addition, the other important to CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html).
+The further CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html)
 
 Considering these various CCRI partner web sites above and their sometimes complicated architecture, perusing this page first is recommended for an overview of the range of available CCRI data resources from not just these websites, but other data repositories and platforms as well.
 <br/><!-- Susan TO SHANNON: Added line break -->
