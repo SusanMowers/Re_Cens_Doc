@@ -41,13 +41,13 @@ To this end, only two census years are publicly accessible:[the CCRI 1911 microd
 The more recent 1931, 1941 and 1951 microdata files are securely managed and housed under the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.  
 <!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
-### 2&nbsp; Archiving of CCRI resources across partner university archives
+### 2&nbsp; Archiving CCRI resources across partner university archives
 
 #### 2-1&nbsp; Network of CCRI archives
 
 CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. 
 
-Several partner universities were responsible for providing bilingual CCRI "web gateway" archives. One-point discovery and access to CCRI resources was not a focus for the project. The focus was the production of time harmonized census data (by geography and census concepts) and harmonized metadata and documentation.  The strategy for these archiving all these materials was to distribute their archiving among identified partner universities, while ensuring privacy protections.
+Several partner universities were responsible for providing bilingual CCRI "web gateway" archives. One-point discovery and access to CCRI resources was not a focus for the project. Instead the focus was on the production of time harmonized census data (by geography and census concepts) and harmonized metadata and documentation.  The strategy for these archiving all these resources was to distribute their archiving among identified partner universities, while ensuring privacy protections.
 
 #### 2-2&nbsp; What are the CCRI archives?
 
@@ -55,7 +55,7 @@ The CCRI archive "web gateways" are the [University of Alberta](https://ccri.lib
 
 The further CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html)
 
-Considering these various CCRI partner web sites above and their sometimes complicated architecture, perusing this page first is recommended for an overview of the range of available CCRI data resources from not just these websites, but other data repositories and platforms as well.  
+Considering these various CCRI partner web sites (and their sometimes complicated architecture), perusing this page first is recommended to obtain an overview of the range of available CCRI data resources in order to zero in on the most relevant resources for your needs.  Included in the CCRI resources on this page, are thosed which may be conveniently housed on alternate platforms such as data repositories.
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Where to start?
