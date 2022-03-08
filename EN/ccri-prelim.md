@@ -20,7 +20,7 @@ Looking further at the project’s architecture, or “[Green Balloons]( http://
 
 ## Why another web page about CCRI's historical Census of Canada resources?
 
-### Get to know what CCRI data is available and where to find it ...
+### Get to know what CCRI data is available and where you can access it ...
 
 This web posting introduces the ambitious range of CCRI's Census data sources for Canada's decennial censuses, 1911, 1921, 1931, 1941 and 1951.
 
