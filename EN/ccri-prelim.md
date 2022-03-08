@@ -80,7 +80,7 @@ I hope that like me, you will come across new sources of information about the C
 | <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>For GIS / spatial analysis</sup>  |
 | <sup>&nbsp; 3-1 |           <sup>Uses</sup>           |   |
 | <sup>&nbsp; 3-2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
-|  |          <sup> ***CCRI CONTEXTUAL DATABASE***</sup>           | <sup>Primary historical sources</sup>   |
+|  |          <sup> ***CCRI CONTEXTUAL DATABASE***</sup>           | <sup>Primary historical textual sources</sup>   |
 | <sup>&nbsp; *4-1* |           <sup>*Censuses in Context*</sub>           |   |
 | <sup>&nbsp; *4-2* |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
 | <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
