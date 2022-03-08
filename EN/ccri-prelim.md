@@ -20,7 +20,7 @@ Looking further at the project’s architecture, or “[Green Balloons]( http://
 
 ## Why another web page about CCRI's historical Census of Canada resources?
 
-### Get to know what CCRI data is available and where you can access it
+### Get to know what CCRI data is available and where to access it
 
 This web posting introduces CCRI's ambitious range of Census data sources for Canada's decennial censuses, 1911, 1921, 1931, 1941 and 1951.
 
@@ -32,29 +32,29 @@ Ces matériels en langue française feront l'objet d'un prochaine article Web*.
 
 ## Two reasons why CCRI didn't release all of their data in "one" place
 
-### Privacy protection
+### 1 Privacy protection
 
-Privacy of Canadians' Census information is legally mandated for 92 years after the data is collected, under [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
+Privacy of Canadians' Census information is legally mandated for 92 years after the data is collected under [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
-To this end, only two census years are eligible for public access:[the CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and [the CCRI 1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). Note: the CCRI archive "web gateway" refers to these files as "databases." 
+To this end, only two census years are publicly accessible:[the CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and [the CCRI 1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). Note: the CCRI archive "web gateway" refers to these files as "databases." 
 
 The more recent 1931, 1941 and 1951 microdata files are securely managed and housed under the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.  
 <!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
-### Archiving of CCRI resources across partner university archives
+### 2 Archiving of CCRI resources across partner university archives
 
-#### Network of CCRI archives
+#### 2-1 Network of CCRI archives
 
 CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI "web gateway" archives. One one-point discovery and access to CCRI resources was not a focus for the project. Distributed archiving, rather than one single discovery portal, was the focus of the project, after production was completed of the harmonized (time, geography, census concepts) census data and documentation materials. In addtion, archiving had to ensure privacy protections outside of CCRI partner universities' archive sites. 
 
-#### - What are the CCRI archives?
+#### - 2-2 What are the CCRI archives?
 
 The CCRI archive "web gateways" are the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
 
 The further CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html)
 
 Considering these various CCRI partner web sites above and their sometimes complicated architecture, perusing this page first is recommended for an overview of the range of available CCRI data resources from not just these websites, but other data repositories and platforms as well.  
-<!-- equals 3 line breaks, 2 spaces at the end of line above -->
+<br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Where to start?
 
