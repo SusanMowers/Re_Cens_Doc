@@ -45,9 +45,11 @@ The more recent 1931, 1941 and 1951 microdata files are securely managed and hou
 
 #### 2-1&nbsp; Network of CCRI archives
 
-CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI "web gateway" archives. One one-point discovery and access to CCRI resources was not a focus for the project. Distributed archiving, rather than one single discovery portal, was the focus of the project, after production was completed of the harmonized (time, geography, census concepts) census data and documentation materials. In addtion, archiving had to ensure privacy protections outside of CCRI partner universities' archive sites. 
+CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. 
 
-#### - 2-2&nbsp; What are the CCRI archives?
+Several partner universities were responsible for providing bilingual CCRI "web gateway" archives. One-point discovery and access to CCRI resources was not a focus for the project. The focus was the production of time harmonized census data (by geography and census concepts) and harmonized metadata and documentation.  The strategy for these archiving all these materials was to distribute their archiving among identified partner universities, while ensuring privacy protections.
+
+#### 2-2&nbsp; What are the CCRI archives?
 
 The CCRI archive "web gateways" are the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
 
@@ -60,13 +62,13 @@ Considering these various CCRI partner web sites above and their sometimes compl
 
 Start with CCRI's data sources from (1) aggregate data and (2) microdata, to (3) geographic boundary files. (Note: in addition to CCRI's data sources, a wealth of CCRI documentation and metadata sources is included.) Then conclude by investigating CCRI's contextual database.
 
-I learned a lot by compiling this page.  I hope that like me, you will come across new sources of information about the Canada's historical Censuses of Population (1911 - 1951 decennial censuses) and to be able to more readily access CCRI data and related information.
+I hope that like me, you will come across new sources of information about the Canada's historical Censuses of Population (1911 - 1951 decennial censuses) and to be able to more readily access CCRI data and related information.
 
 | <sup>\# | <sup>CCRI Data Topics</sup> | <sup>Highlights</sup> |
 |----|-----------------------------|-----------|
 | **<sup>1** |   [**<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-Selected_published-Census-data-tables)   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>&nbsp; 1-1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
-| <sup>&nbsp; 1-2 |           <sup>Want to map summary data?</sup>            |   |
+| <sup>&nbsp; 1-2 |           [<sup>Want to map summary data?</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-What-to-map- summary-data?)            |   |
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
 | <sup>&nbsp; 2-1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sup>&nbsp; 2-2 |          <sup>Access CCRI data documentationa</sup>            |   |
