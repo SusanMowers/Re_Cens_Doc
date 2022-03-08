@@ -28,7 +28,7 @@ Knowing where to look for CCRI Census data and materials may be helpful for thos
 
 It should be highlighted that CCRI data and related materials are also available in French. CCRI archives provide English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. 
 Ces matériels en langue française feront l'objet d'un prochaine article Web*.  
-<!-- equals 2 line breaks, 2 spaces at the end of line above -->
+<br/><!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 ## Two reasons why CCRI didn't release all of their data in "one" place
 
@@ -43,11 +43,11 @@ The more recent 1931, 1941 and 1951 microdata files are securely managed and hou
 
 ### Archiving of CCRI resources across partner university archives
 
-#### - A network of archives
+#### Network of CCRI archives
 
 CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. Several partner universities were responsible for their own bilingual CCRI "web gateway" archives. One one-point discovery and access to CCRI resources was not a focus for the project. Distributed archiving, rather than one single discovery portal, was the focus of the project, after production was completed of the harmonized (time, geography, census concepts) census data and documentation materials. In addtion, archiving had to ensure privacy protections outside of CCRI partner universities' archive sites. 
 
-#### - What are the source archives?
+#### - What are the CCRI archives?
 
 The CCRI archive "web gateways" are the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
 
@@ -83,10 +83,9 @@ I learned a lot by compiling this page.  I hope that like me, you will come acro
 | <sup>&nbsp; *4-2* |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
 | <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
 
-You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
+You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.  
+<br/><!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
-
-<br/><!-- Susan TO SHANNON: Added line break -->
 ## CCRI data sources
 
 ### 1 Selected published Census data tables
