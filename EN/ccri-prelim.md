@@ -1,6 +1,6 @@
 # CCRI Canadian historical Census data and materials, 1911 - 1951
 
-> ver. March 7, 2022
+> draft ver. March 7, 2022
 
 ## Table of contents<!-- Susan TO SHANNON: I will fix the table of contents so it displays as a cleaner table - should I add more info to this like CCRI microdata, CCRI aggregate data? -->
 
@@ -101,10 +101,10 @@ The Excel table names below follow the convention: `CCRI_PUB_YYYY_V#T#.xls`, whi
 <!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 * [1911 excel tables + Variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233162&version=1.0)
-* [1921 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
-* [1931 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
-* [1941 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
-* [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
+* [1921 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233116&version=1.0)
+* [1931 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233097&version=1.0)
+* [1941 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233181&version=1.0)
+* [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233139&version=1.0)
 <br/><!-- equals 3 line breaks, no spaces at the end of line above -->
 
 #### 1-2 Map summary data 
