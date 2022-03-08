@@ -71,15 +71,15 @@ Navigation help **CCRI Data Sources** by topics:
 |  |           <sup>*Note, privacy protection*</sup>          |   |
 | <sup>&nbsp;  2.2.1 |           <sup>Compare CCRI census variables</sup>           |   |
 | <sup>&nbsp;  2.2.2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
-| <sup>&nbsp;  2.2.3 |           <sub>Consult reference maps</sup>          |   |
-| <sup>v  2.2.4 |          <sub> Methodology documentation</sup>           |   |
+| <sup>&nbsp;  2.2.3 |           <sup>Consult reference maps</sup>          |   |
+| <sup>&nbsp;  2.2.4 |          <sup>Methodology documentation</sup>           |   |
 | <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
 | <sup>&nbsp; 3.1 |           <sup>Uses</sup>           |   |
-| <sup> 3.2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
+| <sup>&nbsp; 3.2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
 | <sup>**4** |          <sup> **CCRI CONTEXTUAL DATABASE**</sup>           | <sup>Primary historical sources</sup>   |
-| <sup> 4.1 |           <sup>Censuses in Context</sub>           |   |
-| <sup> 4.2 |           <sup>Coverage of the Contextual Database</sup>          |   |
-| <sup> 4.3 |           <sup>Using the Contextual Database</sup>         |   |
+| <sup>&nbsp; 4.1 |           <sup>Censuses in Context</sub>           |   |
+| <sup>&nbsp; 4.2 |           <sup>Coverage of the Contextual Database</sup>          |   |
+| <sup>&nbsp; 4.3 |           <sup>Using the Contextual Database</sup>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
