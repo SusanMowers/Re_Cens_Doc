@@ -95,7 +95,7 @@ Consult these excel files containing tables of Census of Canada data which have 
 
 #### 1-1 Access aggregate data
 
-The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.  
+The Excel table names below follow the convention: `CCRI_PUB_YYYY_V#T#.xls`, while the lists of variable descriptions follow the naming convention: `YYYY_V#T#_Variable.pdf`.  
 <!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 * [1911 excel tables + Variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233162&version=1.0)
