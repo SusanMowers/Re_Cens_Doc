@@ -61,25 +61,25 @@ I hope, as happened with me, when compiling this page, that you will become more
 Navigation help **CCRI Data Sources** by topics:
 
 |  | <sup>**Topic** | **<sup>Highlights</sup>** |
-|----|-----------------------------|:-----------:|
+|----|-----------------------------|-----------|
 | **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI's Excel-ready aggregate data</sup>   |
-| <sup>1.1 |           <sup>Access aggregate data</sup>            |   |
-| <sup>1.2 |           <sup>Want to map summary data?</sup>            |   |
+| <sup> 1.1 |           <sup>Access aggregate data</sup>            |   |
+| <sup> 1.2 |           <sup>Want to map summary data?</sup>            |   |
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
-| <sup>2.1 |           <sup>Access CCRI microdata</sup>            |   |
-| <sup>2.2 |          <sup>Access CCRI data documentationa</sup>            |   |
+| <sup> 2.1 |           <sup>Access CCRI microdata</sup>            |   |
+| <sup> 2.2 |          <sup>Access CCRI data documentationa</sup>            |   |
 |  |           <sup>*Note, privacy protection*</sup>          |   |
-| <sup>2.2.1 |           <sup>Compare CCRI census variables</sup>           |   |
-| <sup>2.2.2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
-| <sup>2.2.3 |           <sub>Consult reference maps</sup>          |   |
-| <sup>2.2.4 |          <sub> Methodology documentation</sup>           |   |
+| <sup>  2.2.1 |           <sup>Compare CCRI census variables</sup>           |   |
+| <sup>  2.2.2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
+| <sup>  2.2.3 |           <sub>Consult reference maps</sup>          |   |
+| <sup>  2.2.4 |          <sub> Methodology documentation</sup>           |   |
 | <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
-| <sup>3.1 |           <sup>Uses</sup>           |   |
-| <sup>3.2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
+| <sup> 3.1 |           <sup>Uses</sup>           |   |
+| <sup> 3.2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
 | <sup>**4** |          <sup> **CCRI CONTEXTUAL DATABASE**</sup>           | <sup>Primary historical sources</sup>   |
-| <sup>4.1 |           <sup>Censuses in Context</sub>           |   |
-| <sup>4.2 |           <sup>Coverage of the Contextual Database</sup>          |   |
-| <sup>4.3 |           <sup>Using the Contextual Database</sup>         |   |
+| <sup> 4.1 |           <sup>Censuses in Context</sub>           |   |
+| <sup> 4.2 |           <sup>Coverage of the Contextual Database</sup>          |   |
+| <sup> 4.3 |           <sup>Using the Contextual Database</sup>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
