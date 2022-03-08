@@ -51,11 +51,11 @@ Several partner universities were responsible for providing bilingual CCRI "web 
 
 #### 2-2&nbsp; What are the CCRI archives?
 
-The CCRI archive "web gateways" are the [University of Alberta](https://ccri.library.ualberta.ca/enindex.html) (and the University of Alberta [Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), the [University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. 
+The CCRI archive "web gateways" are found at[the University of Alberta](https://ccri.library.ualberta.ca/enindex.html), [the University of Alberta Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), [the University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [the University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. However, included in the CCRI resources on this page, are those housed on alternate, and often more convenient platforms such as data repositories.
 
 The further CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html)
 
-Considering these various CCRI partner web sites (and their sometimes complicated architecture), perusing this page first is recommended to obtain an overview of the range of available CCRI data resources in order to zero in on the most relevant resources for your needs.  Included in the CCRI resources on this page, are thosed which may be conveniently housed on alternate platforms such as data repositories.
+Considering these various CCRI partner web sites (and their sometimes complicated architecture), perusing this page first is recommended to obtain an overview of the range of available CCRI data resources in order to zero in on the most relevant resources for your needs.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Where to start?
@@ -107,7 +107,7 @@ The Excel table names below follow the convention: `CCRI_PUB_YYYY_V#T#.xls`, whi
 * [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
 <br/><!-- equals 3 line breaks, no spaces at the end of line above -->
 
-#### 1-2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
+#### 1-2&nbsp; Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
 
 You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
