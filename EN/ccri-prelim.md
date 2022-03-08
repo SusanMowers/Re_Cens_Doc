@@ -60,7 +60,7 @@ I hope that, as happened with me when I compiled this page, you will come across
 
 Navigate these **CCRI Data Sources** as follows by topics:
 
-| <sup>Topic | <sup>Description</sup> | <sup>Highlights</sup> |
+| <sup>\# | <sup>Topic</sup> | <sup>Highlights</sup> |
 |----|-----------------------------|-----------|
 | **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>&nbsp; 1.1 |           <sup>Access aggregate data</sup>            |   |
