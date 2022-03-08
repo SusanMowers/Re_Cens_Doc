@@ -63,10 +63,10 @@ Navigate these **CCRI Data Sources** as follows by topics:
 | <sup>\# | <sup>Topic</sup> | <sup>Highlights</sup> |
 |----|-----------------------------|-----------|
 | **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI's Excel-ready aggregate data</sup>   |
-| <sup>&nbsp; 1.1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
-| <sup>&nbsp; 1.2 |           <sup>Want to map summary data?</sup>            |   |
+| <sup>&nbsp; 1-1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
+| <sup>&nbsp; 1-2 |           <sup>Want to map summary data?</sup>            |   |
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
-| <sup>&nbsp; 2.1 |           <sup>Access CCRI microdata</sup>            |   |
+| <sup>&nbsp; 2-1 |           <sup>Access CCRI microdata</sup>            |   |
 | <sup>&nbsp; 2.2 |          <sup>Access CCRI data documentationa</sup>            |   |
 |  |           <sup>*Note, privacy protection*</sup>          |   |
 | <sup>&nbsp;  2.2.1 |           <sup>Compare CCRI census variables</sup>           |   |
