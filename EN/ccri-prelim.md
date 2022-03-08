@@ -123,8 +123,8 @@ Broadly speaking, data are the raw material on which the statistics of the censu
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
-<br/><br/><!-- equals 3 line breaks, no spaces at the end of line above, which is a table-->
 
+<br/><br/><!-- equals 3 line breaks, line below table must be blank, there are no spaces at the end of last line the table-->
 ### 2.1 Access CCRI microdata
 
 1911
