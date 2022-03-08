@@ -108,20 +108,20 @@ The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V
 #### 1-2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
 
 You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.  
-<!-- equals 3 line breaks, 2 spaces at the end of line above -->
+<br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ### 2 Microdata
 
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
 
-Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.  
+Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.   
 <!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 | **Year** | **Total National Population** <br/> *(according to published Census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
-<br/><!-- equals 3 line breaks, no spaces at the end of line above -->
+<br/><br/><!-- equals 3 line breaks, no spaces at the end of line above, which is a table-->
 
 ### 2.1 Access CCRI microdata
 
