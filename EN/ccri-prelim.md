@@ -69,9 +69,9 @@ I hope that you will, like me, come across new sources of information about the 
 | **<sup>1** |   [**<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-Selected-published-Census-data-tables)   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>&nbsp; 1-1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
 | <sup>&nbsp; 1-2 |  [<sup>Map summary data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-Map-summary-data)  |   |
-| <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>CCRI sample microdata to analyse or aggregate</sup>    |
+| <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>CCRI microdata to analyse or aggregate</sup>    |
 | <sup>&nbsp; 2-1 |           <sup>Access CCRI microdata</sup>            |   |
-| <sup>&nbsp; 2-2 |          <sup>Access CCRI data documentationa</sup>            |   |
+| <sup>&nbsp; 2-2 |          <sup>Access CCRI data documentation</sup>            |   |
 |  |           <sup>*Note, privacy protection*</sup>          |   |
 | <sup>&nbsp;  2-2-1 |           <sup>Compare CCRI census variables</sup>           |   |
 | <sup>&nbsp;  2-2-2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
