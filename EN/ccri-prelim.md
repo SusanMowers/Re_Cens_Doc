@@ -107,8 +107,8 @@ The Excel table names below follow the convention: `CCRI_PUB_YYYY_V#T#.xls`, whi
 * [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
 <br/><!-- equals 3 line breaks, no spaces at the end of line above -->
 
-#### 1-2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
-
+#### 1-2 Want to map summary data?  
+ <!-- Susan to SELF & Shannon: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
 You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
