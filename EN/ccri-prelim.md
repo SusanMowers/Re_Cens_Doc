@@ -65,19 +65,19 @@ I learned a lot by compiling this page.  I hope that like me, you will come acro
 | <sup>&nbsp; 1-2 |           <sup>Want to map summary data?</sup>            |   |
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
 | <sup>&nbsp; 2-1 |           <sup>Access CCRI microdata</sup>            |   |
-| <sup>&nbsp; 2.2 |          <sup>Access CCRI data documentationa</sup>            |   |
+| <sup>&nbsp; 2-2 |          <sup>Access CCRI data documentationa</sup>            |   |
 |  |           <sup>*Note, privacy protection*</sup>          |   |
-| <sup>&nbsp;  2.2.1 |           <sup>Compare CCRI census variables</sup>           |   |
-| <sup>&nbsp;  2.2.2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
-| <sup>&nbsp;  2.2.3 |           <sup>Consult reference maps</sup>          |   |
-| <sup>&nbsp;  2.2.4 |          <sup>Methodology documentation</sup>           |   |
+| <sup>&nbsp;  2-2-1 |           <sup>Compare CCRI census variables</sup>           |   |
+| <sup>&nbsp;  2-2-2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
+| <sup>&nbsp;  2-2-3 |           <sup>Consult reference maps</sup>          |   |
+| <sup>&nbsp;  2-2-4 |          <sup>Methodology documentation</sup>           |   |
 | <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
-| <sup>&nbsp; 3.1 |           <sup>Uses</sup>           |   |
-| <sup>&nbsp; 3.2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
+| <sup>&nbsp; 3-1 |           <sup>Uses</sup>           |   |
+| <sup>&nbsp; 3-2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
 |  |          <sup> ***CCRI CONTEXTUAL DATABASE***</sup>           | <sup>Primary historical sources</sup>   |
-| <sup>&nbsp; *4.1* |           <sup>*Censuses in Context*</sub>           |   |
-| <sup>&nbsp; *4.2* |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
-| <sup>&nbsp; *4.3* |           <sup>*Using the Contextual Database*</sup>         |   |
+| <sup>&nbsp; *4-1* |           <sup>*Censuses in Context*</sub>           |   |
+| <sup>&nbsp; *4-2* |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
+| <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
@@ -133,12 +133,12 @@ A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualb
 *The website refers to microdata as "Databases". The above data files are public, allowable because these censuses are older than the 92-year period when Canadians' censuses must be kept private.
 <br/><br/><!--Susan to SHANNON: added two line breaks but only one blank line after FOR END OF A SUB SECTIONS-->
 
-### 2.2 Access data documentation
+### 2-2 Access data documentation
 
 The following microdata documentation applies to all Census years.
 <br/> <!--Susan to SHANNON: added line break but only one blank line after FOR SUB-SUB SECTIONS-->
 
-#### 2.2.1 Compare CCRI census variables
+#### 2-2-1 Compare CCRI census variables
 
 * See list of core Census variables: [CCRI variables that are identical in each of the five censuses](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-core-variables-table.pdf)
 * Codebook
@@ -150,7 +150,7 @@ The following microdata documentation applies to all Census years.
 * [See also list of non-core CCRI Census variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/read-and-edit/ccri-read-and-edit-non-core-variables-table.pdf)
 <br/><!--Susan to SHANNON: added line break but only one blank line after -->
 
-#### 2.2.2 Official Census of Population of Canada documentation
+#### 2-2-2 Official Census of Population of Canada documentation
 * [Schedules](https://ccri.library.ualberta.ca/enresources/schedules/index.html) (official Census schedules, or Census "questions")
 * [Enumerator instructions](https://ccri.library.ualberta.ca/enresources/enumeratorinstructions/index.html) (official enumerator instructions).
 * [Census Guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) (CCRI documentation)
@@ -160,7 +160,7 @@ The following microdata documentation applies to all Census years.
   * A Census question guide displays. The guide comprises sections A to I, covering details for each question, including who was asked each question, how was it asked, enumerator instructions and variable (click on variable for how the question was recorded).
 <br/> <!--Shannon to SUSAN: added line break -->
 
-#### 2.2.3 Consult reference maps
+#### 2-2-3 Consult reference maps
 
 Consult the reference maps below to see CCRI Census Districts, which are smaller than provinces and territories, as well as Census Subdistricts and Indian Reserves which are breakdowns of the Census Districts. These reference maps are a valuable source of information about the harmonized historical geographic areas created by CCRI, to support the selection, aggregation and and understanding of Census microdata from 1911 to 1951.
 
@@ -169,21 +169,21 @@ The University of Toronto was responsible for archiving all [91 reference maps](
 2. The provincial and territorial reference maps show tbe boundaries of Census Districts, Census Subdistricts, and Indian Reserves as well, as the case may be.
 3. The number of reference maps varies by level of detail. Uusally there is only one Reference Map A.  But where one reference map was insuffient to show all boundaries clearly, then a second Reference Map "B" (inset map) was produced to show enlargements of higher population areas whose boundaries not displayed clearly in Reference Map A.
 
-##### [2.2.3.1 Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
+##### [2-2-3-1 Reference maps for Census Districts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
 See **Canada Reference Maps**. Reference maps by year. Notable lists of Census District codes and names (_list_of_CDs.pdf) for each year. on the University of Toronto [Distribution site for CCRI Geographic reference map files].
 
-###### [2.2.3.2 Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
+###### [2-2-3-2 Reference maps for Census Subdistricts](http://mercator.geog.utoronto.ca/ccri/referencemaps.htm)
 
 See **Provincial or Territorial Reference Maps**. Reference maps showing Census Districts and Census Subdistricts by Census year, and then by provinces and territories.
 
-###### 2.2.3.3 Alternatively, do you want to use GIS?
+###### 2-2-3-3 Alternatively, do you want to use GIS?
 
 *Reconstructed Census Geography GIS layers (boundary files) are provided for every Census year*. You can summarize CCRI data by Census districts or Census subdistricts, and using the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
 <br> <!-- Shannon to SUSAN: added the single line breaks between the 2.2.1/2/3/4 sections, almost seems like too much space though. Thoughts? -->
 
-#### 2.2.4 Methodology documentation
+#### 2-2-4 Methodology documentation
 
 * [Data Dictionary](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=310&itemid=95.htm). Comprises microdata documentation: [Census guides](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=4&itemid=100.htm) || [CCRI Variables](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=section&id=6&itemid=279.htm) || [CCRI Coding](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=5&itemid=107.htm) || [Data extract](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=319&itemid=108.htm). Scroll down page for **A Note on CCRI Variables**.
 * [CCRI sampling methodology](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=307&itemid=92.htm). *The CCRI microdata represents a sample of the total national Census populations for each Census year (enumeration). The CCRI has developed a wide range of methods of minimizing and adjusting for inconsistencies in that sample.*
@@ -193,20 +193,20 @@ See **Provincial or Territorial Reference Maps**. Reference maps showing Census 
 
 <br><br> <!--Shannon to SUSAN: added two line breaks -->
 
-### 3. CCRI Census Geography Boundary Files
+### 3 CCRI Census Geography Boundary Files
 
 Boundary files for CCRI Census Districts and Census Subdistricts are available from Scholars GeoPortal.
 
 
 
-#### 3.1 Uses
+#### 3-1 Uses
 
 * For historical Census mapping and spatial analysis: **Add**, then **download** in full or by area of interest for GIS,
 * For map visualization in Scholars Geoportal or exporting high-resolution map documents.
 
 <br> <!--Shannon to SUSAN: added line break -->
 
-#### 3.2 Access CCRI boundary files with detailed metadata
+#### 3-2 Access CCRI boundary files with detailed metadata
 
 * [Boundary files, 1911 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=1883595374)
 * [Boundary files, 1921 Census of Canada](http://geo.scholarsportal.info/#r/details/_uri@=762737871)
@@ -220,20 +220,20 @@ Boundary files for CCRI Census Districts and Census Subdistricts are available f
 
 From the database user guide, and from the [University of Ottawa CCRI archive](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=306&itemid=91.htm)
 
-### 4.1 Censuses in Context
+### 4-1 Censuses in Context
 
 ***Documenting and Understanding the Making of Early 20th Century Canadian Census***
 
 This database is the result of the project's approach to reflect the *organization of censuses as a complex initiative, influenced by the major political issues of the day as well as relations between the State and civil society.*  The database records *inform us on issues as fundamental as State construction, mechanisms ensuring State legitimacy, the role of cultural intermediaries, etc.*
 
-### 4.2 Coverage of the Contextual Database
+### 4-2 Coverage of the Contextual Database
 
 *Using varied documentation, especially the media of the period, we have been able to gather valuable information on the organization, execution, and reception of censuses across Canada from 1911 to 1951. The ContextData database comprises more than 16,000 records. Nearly 170 newspapers as well as Canadian parliamentary debates and some provincial legislative debates were systematically searched during the months preceding and following the taking of the Census.*
 
-### 4.3 Access and Use of the Contextual database
+### 4-3 Access and Use of the Contextual database
 
-#### 3.1 Access the Database and User Guide
+#### 4-3-1 Access the Database and User Guide
 The integrated Contextual database with a detailed user guide is found at the [Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB).
 
-#### 3.2 Using the Contextual Database
+#### 4-3-2 Using the Contextual Database
 The User Guide is essential. In particular, please see the User Guide topics, **Corpus**, **Thematic Index**, and **How to use**.
