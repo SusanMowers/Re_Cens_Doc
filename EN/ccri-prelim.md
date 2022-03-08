@@ -76,10 +76,10 @@ Navigate **CCRI Data Sources** below by topics:
 | <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>GIS and spatial analysis</sup>  |
 | <sup>&nbsp; 3.1 |           <sup>Uses</sup>           |   |
 | <sup>&nbsp; 3.2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
-| <sup>**4** |          <sup> **CCRI CONTEXTUAL DATABASE**</sup>           | <sup>Primary historical sources</sup>   |
-| <sup>&nbsp; 4.1 |           <sup>Censuses in Context</sub>           |   |
-| <sup>&nbsp; 4.2 |           <sup>Coverage of the Contextual Database</sup>          |   |
-| <sup>&nbsp; 4.3 |           <sup>Using the Contextual Database</sup>         |   |
+|  |          <sup> ***CCRI CONTEXTUAL DATABASE***</sup>           | <sup>Primary historical sources</sup>   |
+| <sup>&nbsp; 4.1 |           <sup>*Censuses in Context*</sub>           |   |
+| <sup>&nbsp; 4.2 |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
+| <sup>&nbsp; 4.3 |           <sup>*Using the Contextual Database*</sup>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.
 
