@@ -10,7 +10,7 @@
 - <a href="#ccri-contextual-database">CCRI Contextual Database</a>
 
 ## What is the CCRI?
-
+<!-- equals 2 line breaks, the line above is a header -->
 The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009. [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html) collaborated to produce a wealth of interrelated detailed data centred on Canada's original Census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized Census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
 
 The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“ [(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf).
@@ -36,7 +36,7 @@ Ces matériels en langue française feront l'objet d'un prochaine article Web*.
 
 Privacy of Canadians' Census information is legally mandated for 92 years after the data is collected, under [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
-To this end, only two census years are eligible for public access: the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). CCRI "web gateway" archive sites refer to CCRI microdata as "databases." 
+To this end, only two census years are eligible for public access:[the CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and [the CCRI 1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). Note: the CCRI archive "web gateway" refers to these files as "databases." 
 
 The more recent 1931, 1941 and 1951 microdata files are securely managed and housed under the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.  
 <!-- equals 2 line breaks, 2 spaces at the end of line above -->
