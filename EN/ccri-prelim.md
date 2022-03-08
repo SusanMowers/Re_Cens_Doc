@@ -58,8 +58,6 @@ Start with CCRI's data sources: (1) aggregate data, (2) microdata, and (3) geogr
 
 I hope that, as happened with me when I compiled this page, you will come across new sources of information you didn't know about before from the historical Censuses of Population of Canada (decennial 1911 - 1951 censuses), and be more readily able to access them.
 
-Navigate CCRI Data Sources:
-
 | <sup>\# | <sup>CCRI Data Topics</sup> | <sup>Highlights</sup> |
 |----|-----------------------------|-----------|
 | **<sup>1** |   [**<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-Selected_published-Census-data-tables)   | <sup>CCRI's Excel-ready aggregate data</sup>   |
