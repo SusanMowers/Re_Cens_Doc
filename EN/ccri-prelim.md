@@ -53,7 +53,7 @@ Several partner universities were responsible for providing bilingual CCRI "web 
 
 The CCRI archive "web gateways" are found at[the University of Alberta](https://ccri.library.ualberta.ca/enindex.html), [the University of Alberta Dataverse](https://dataverse.scholarsportal.info/dataverse/CCRI), [l'Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB), [the University of Toronto](http://mercator.geog.utoronto.ca/ccri/index.htm) and [the University of Ottawa](http://web5.uottawa.ca/ccri//CCRI-portal-static/CCRI-portal-static-english/index.php@option=com_content&task=view&id=46&itemid=18.htm). The foregoing CCRI web archive gateways were the major sources of information for this page. However, included in the CCRI resources on this page, are those housed on alternate, and often more convenient platforms such as data repositories.
 
-The further CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html)
+Further CCRI partner university websites are: [project host website at the University of Ottawa](http://www.ccri.uottawa.ca/), [CCRI York University Centre website](http://www.yorku.ca/ccri/index.html), [CCRI-ICRS 1911 Sample of the 1911 Canadian Census website, Université du Québec à Trois-Rivières](https://ircs1911.cieq.ca/).
 
 Considering these various CCRI partner web sites (and their sometimes complicated architecture), perusing this page first is recommended to obtain an overview of the range of available CCRI data resources in order to zero in on the most relevant resources for your needs.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
