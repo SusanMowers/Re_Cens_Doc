@@ -56,9 +56,9 @@ Considering these various CCRI partner web sites above and their sometimes compl
 
 Start with CCRI's data sources: (1) aggregate data, (2) microdata, and (3) geographic boundary files. Included in this section is relevant location information for documentation and metadata, as wel as links to publicly avaiable data. And then conclude by investigating (4) investigating CCRI's contextual database.
 
-I hope, as happened with me, when compiling this page, that you will become more aware of some historical Census of Population of Canada data which you may not have known about before, and that you will be able to more readily find and use key sources of information from the 1911 - 1951 decennial Canadian censuses.
+I hope that, as happened with me when I compiled this page, you will come across new sources of information you didn't know about before from the historical Censuses of Population of Canada (decennial 1911 - 1951 censuses), and be more readily able to access them.
 
-Navigate **CCRI Data Sources** below by topics:
+Navigate these **CCRI Data Sources** as follows by topics:
 
 |  | <sup>**Topic** | **<sup>Highlights</sup>** |
 |----|-----------------------------|-----------|
