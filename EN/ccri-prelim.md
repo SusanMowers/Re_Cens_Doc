@@ -63,7 +63,7 @@ Navigate these **CCRI Data Sources** as follows by topics:
 | <sup>\# | <sup>Topic</sup> | <sup>Highlights</sup> |
 |----|-----------------------------|-----------|
 | **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI's Excel-ready aggregate data</sup>   |
-| <sup>&nbsp; 1.1 |           <sup>Access aggregate data</sup>            |   |
+| <sup>&nbsp; 1.1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1.1-Access-aggregate-data)            |   |
 | <sup>&nbsp; 1.2 |           <sup>Want to map summary data?</sup>            |   |
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
 | <sup>&nbsp; 2.1 |           <sup>Access CCRI microdata</sup>            |   |
@@ -92,7 +92,7 @@ You may want to right click on the links provided below to open the link in a ne
 Consult these excel files containing tables of Census of Canada data which have been summarized (or "aggregated") by **Census divisions** and **Census subdivisions**. These aggregate data tables represent a selection made by CCRI of the official Census tables which were published in print. It is a small, interesting selection, intended to be a jumping off point for finding more Census data, especially the detailed microdata (or "databases") produced by CCRI for the years 1911, 1921, 1931, 1941 and 1951.  These Excel tables were produced from  tables were produced from the official published volumes of Canada's Censuses of Population of Canada. CCRI also produced pdf documents describing the content (or variable descriptions), as well as user guide exerpts for understanding these tables.
 <br/><!-- Susan TO SHANNON: added ONE line break -->
 
-[1.1 Access aggregate data](#### Access_aggregate_data)
+#### 1.1 Access aggregate data
 
 The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
 <br/><!-- Susan TO SHANNON: Removed ONE line break -->
