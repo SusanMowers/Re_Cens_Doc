@@ -60,9 +60,9 @@ Considering these various CCRI partner web sites (and their sometimes complicate
 
 ## Where to start?
 
-Start with CCRI's data sources from (1) aggregate data and (2) microdata, to (3) geographic boundary files. (Note: in addition to CCRI's data sources, a wealth of CCRI documentation and metadata sources is included.) Then conclude by investigating CCRI's contextual database.
+Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) geographic boundary files. (Note: you will find included within these data sources, CCRI's documentation and metadata sources.) Wrap up by investigating CCRI's contextual database**.
 
-I hope that like me, you will come across new sources of information about the Canada's historical Censuses of Population (1911 - 1951 decennial censuses) and to be able to more readily access CCRI data and related information.
+I hope that you will, like me, come across new sources of information about the Canada's historical Censuses of Population (1911 - 1951 censuses) and be able to more readily access CCRI's Census quantiative, qualitative and spatial information sources. 
 
 | <sup>\# | <sup>CCRI Data Topics</sup> | <sup>Featuring</sup> |
 |----|-----------------------------|-----------|
