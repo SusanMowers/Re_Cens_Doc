@@ -62,7 +62,7 @@ Navigate these **CCRI Data Sources** as follows by topics:
 
 | <sup>\# | <sup>Topic</sup> | <sup>Highlights</sup> |
 |----|-----------------------------|-----------|
-| **<sup>1** |   **<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**   | <sup>CCRI's Excel-ready aggregate data</sup>   |
+| **<sup>1** |   [**<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1_Selected_published Census_data_tables)   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>&nbsp; 1-1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
 | <sup>&nbsp; 1-2 |           <sup>Want to map summary data?</sup>            |   |
 | <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>Analyse sample microdata</sup>    |
@@ -87,7 +87,7 @@ You may want to right click on the links provided below to open the link in a ne
 <br/><!-- Susan TO SHANNON: Added line break -->
 ## CCRI data sources
 
-### 1. Selected published Census data tables
+### 1 Selected published Census data tables
 
 Consult these excel files containing tables of Census of Canada data which have been summarized (or "aggregated") by **Census divisions** and **Census subdivisions**. These aggregate data tables represent a selection made by CCRI of the official Census tables which were published in print. It is a small, interesting selection, intended to be a jumping off point for finding more Census data, especially the detailed microdata (or "databases") produced by CCRI for the years 1911, 1921, 1931, 1941 and 1951.  These Excel tables were produced from  tables were produced from the official published volumes of Canada's Censuses of Population of Canada. CCRI also produced pdf documents describing the content (or variable descriptions), as well as user guide exerpts for understanding these tables.
 <br/><!-- Susan TO SHANNON: added ONE line break -->
@@ -104,12 +104,12 @@ The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V
 * [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
 <br/><!-- Susan TO SHANNON: Added ONLY 1 line break -->
 
-#### 1.2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
+#### 1-2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
 
 You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
 
 <br/><!-- Susan TO SHANNON: Reduced this to ONE line break which I think, being on a new line. equals two line breaks -->
-### 2. Microdata
+### 2 Microdata
 
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
 
