@@ -28,12 +28,13 @@ Knowing where to look for CCRI Census data and materials may be helpful for thos
 
 It should be highlighted that CCRI data and related materials are also available in French. CCRI archives provide English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. 
 Ces matériels en langue française feront l'objet d'un prochaine article Web*.  
-<br/><!-- Susan TO SELF & SHANNON: Does this equal 2 line breaks -->
-## Two reasons why CCRI didn't release all their data in "one" place
+<!-- equals 2 line breaks, i.e., line 30 ends in two spaces) -->
+
+## Two reasons why CCRI didn't release all of their data in "one" place
 
 ### Privacy protection
 
-Privacy of Canadians' Census information is mandatory for 92 years after the data is collected, as per [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
+Privacy of Canadians' Census information is legally mandated for 92 years after the data is collected, under [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
 
 To this end, only two census years are eligible for public access: the CCRI [1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and the [1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). CCRI "web gateway" archive sites refer to CCRI microdata as "databases." 
 
