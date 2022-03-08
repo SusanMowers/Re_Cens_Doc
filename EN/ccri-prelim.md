@@ -6,29 +6,29 @@
 
 - <a href="#what-is-the-ccri">What is the CCRI</a>
 - <a href="#why-another-web-page-about-ccris-historical-census-of-canada-resources">Why another web page about CCRI's historical Census of Canada resources?</a>
-- <a href="#where-to-start">Where to start? CCRI Data and documentation</a>
+- <a href="#where-to-start">Where to start? CCRI Data sources</a>
 - <a href="#ccri-contextual-database">CCRI Contextual Database</a>
 
 ## What is the CCRI?
-<!-- equals 2 line breaks, the line above is a header -->
+
 The [Canadian Century Research Infrastructure (CCRI)](http://www.ccri.uottawa.ca/CCRI/Home.html) project ran from 2003 to 2009. [Seven CCRI partner universities](http://www.ccri.uottawa.ca/CCRI/Universities.html) collaborated to produce a wealth of interrelated detailed data centred on Canada's original Census returns for 1911, 1921, 1931, 1941 and 1951. Supported by harmonized Census definitions and geographies across the censuses, this detailed microdata formed the core of the Canadian Century Research Infrastructure (CCRI).
 
 The goal of the CCRI project was to “support research on the social, economic, demographic, cultural, political and other changes that explain what has been called 'Canada’s Great Transformation' from a sparsely populated, predominantly rural society … to a highly urbanized society“ [(CCRI Newsletter, Spring 2005)](http://www.ccri.uottawa.ca/CCRI/Images/Newsletter.Spring.2005.pdf).
 
 Looking further at the project’s architecture, or “[Green Balloons]( http://www.ccri.uottawa.ca/CCRI/Images/The.Green.Balloons.pdf)” CCRI's Census Data is located at the centre of the infrastructure, linked with numerous Data Processing outputs, and contextual materials.   
-<br/><!-- equals 3 line breaks, 2 spaces at the end of line above -->
+<br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Why another web page about CCRI's historical Census of Canada resources?
 
-### Get to know what CCRI data is available and where you can access it ...
+### Get to know what CCRI data is available and where you can access it
 
-This web posting introduces the ambitious range of CCRI's Census data sources for Canada's decennial censuses, 1911, 1921, 1931, 1941 and 1951.
+This web posting introduces CCRI's ambitious range of Census data sources for Canada's decennial censuses, 1911, 1921, 1931, 1941 and 1951.
 
-Knowing where to look for CCRI Census data and materials may be helpful for those interested in the history of their communities, or larger geographies.  These data and contextual materials provide in-depth information regarding the make-up of Canada’s peoples, presence of cultural identities and languages, economic classes, education, and family and household living during the transformational first half of the 20th century.
+Knowing where to look for CCRI Census data and materials may be helpful for those interested in the history of their communities or larger Canadian geographies. These data and contextual materials provide in-depth information regarding the make-up of Canada’s peoples, the presence of cultural identities and languages, economic classes, education, and family and household living during the Canada's transformational first half of the 20th century.
 
 It should be highlighted that CCRI data and related materials are also available in French. CCRI archives provide English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. 
 Ces matériels en langue française feront l'objet d'un prochaine article Web*.  
-<br/><!-- equals 3 line breaks, 2 spaces at the end of line above -->
+<br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Two reasons why CCRI didn't release all of their data in "one" place
 
@@ -39,7 +39,7 @@ Privacy of Canadians' Census information is legally mandated for 92 years after 
 To this end, only two census years are eligible for public access:[the CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and [the CCRI 1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). Note: the CCRI archive "web gateway" refers to these files as "databases." 
 
 The more recent 1931, 1941 and 1951 microdata files are securely managed and housed under the Canadian Research Data Centre Network (CRDCN). See the [CRDCN application process information](https://crdcn.org/research) and a [webinar](https://crdcn.org/sites/default/files/gauvreauwebinar_21january2015.pdf) about the historical Census microdata in the CRDCN. Looking ahead, the 1931 microdata file is eligible for public release in late 2023.  
-<!-- equals 2 line breaks, 2 spaces at the end of line above -->
+<!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 ### Archiving of CCRI resources across partner university archives
 
@@ -54,7 +54,7 @@ The CCRI archive "web gateways" are the [University of Alberta](https://ccri.lib
 The further CCRI partner university websites are, the [host project web site at the University of Ottawa](http://www.ccri.uottawa.ca/), the [CCRI York University Centre] website(http://www.yorku.ca/ccri/index.html)
 
 Considering these various CCRI partner web sites above and their sometimes complicated architecture, perusing this page first is recommended for an overview of the range of available CCRI data resources from not just these websites, but other data repositories and platforms as well.  
-<!-- equals 2 line breaks, 2 spaces at the end of line above -->
+<!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 ## Where to start?
 
@@ -84,45 +84,44 @@ I learned a lot by compiling this page.  I hope that like me, you will come acro
 | <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
 
 You may want to right click on the links provided below to open the link in a new tab, while keeping this page open.  
-<br/><!-- equals 3 line breaks, 2 spaces at the end of line above -->
+<br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## CCRI data sources
 
 ### 1 Selected published Census data tables
 
-Consult these excel files containing tables of Census of Canada data which have been summarized (or "aggregated") by **Census divisions** and **Census subdivisions**. These aggregate data tables represent a selection made by CCRI of the official Census tables which were published in print. It is a small, interesting selection, intended to be a jumping off point for finding more Census data, especially the detailed microdata (or "databases") produced by CCRI for the years 1911, 1921, 1931, 1941 and 1951.  These Excel tables were produced from  tables were produced from the official published volumes of Canada's Censuses of Population of Canada. CCRI also produced pdf documents describing the content (or variable descriptions), as well as user guide exerpts for understanding these tables.
-<br/><!-- Susan TO SHANNON: added ONE line break -->
+Consult these excel files containing tables of Census of Canada data which have been summarized (or "aggregated") by **Census divisions** and **Census subdivisions**. These aggregate data tables represent a selection made by CCRI of the official Census tables which were published in print. It is a small, interesting selection, intended to be a jumping off point for finding more Census data, especially the detailed microdata (or "databases") produced by CCRI for the years 1911, 1921, 1931, 1941 and 1951.  These Excel tables were produced from  tables were produced from the official published volumes of Canada's Censuses of Population of Canada. CCRI also produced pdf documents describing the content (or variable descriptions), as well as user guide exerpts for understanding these tables.  
+<!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 #### 1-1 Access aggregate data
 
-The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.
-<br/><!-- Susan TO SHANNON: Removed ONE line break -->
+The Excel table names found below follow the naming convention, `CCRI_PUB_YYYY_V#T#.xls`, while the variable name look-ups (descriptions) follow the naming convention, `YYYY_V#T#_Variable.pdf`.  
+<!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 * [1911 excel tables + Variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1911/1911census.html) || [User guide exerpts](https://dataverse.scholarsportal.info/file.xhtml?fileId=233162&version=1.0)
 * [1921 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1921/1921census.html) || [User guide exerpts: Access dataset]( https://doi.org/10.7939/DVN/10352)
 * [1931 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1931/1931census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10452,)
 * [1941 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1941/1941census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10453)
 * [1951 excel tables & variable descriptions](http://odesi1.scholarsportal.info/documentation/CENSUS/1911-1951CCRI/1951/1951census.html) || [User guide exerpts: Access dataset](https://doi.org/10.7939/DVN/10454,)
-<br/><!-- Susan TO SHANNON: Added ONLY 1 line break -->
+<br/><!-- equals 3 line breaks, no spaces at the end of line above -->
 
 #### 1-2 Want to map summary data?  <!-- Susan to SELF and SHANNON: I am NOT totally sure if CCRI boundaries match up to the geographies in the tables -->
 
-You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.
+You can map the summary data by either Census districts or Census subdistricts from these excel tables the [CCRI boundary shape files below](#3._CCRI_Census_Geography_Boundary_Files), carry out spatial analyses in GIS.  
+<!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
-<br/><!-- Susan TO SHANNON: Reduced this to ONE line break which I think, being on a new line. equals two line breaks -->
 ### 2 Microdata
 
 A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
 
-> Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.
-<br/>
+Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.  
+<!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 | **Year** | **Total National Population** <br/> *(according to published Census volumes)* | **CCRI Sample** | **%** |
 |:----:|:-----------------------------:|:-----------:|:-:|
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
-
-<br/>
+<br/><!-- equals 3 line breaks, no spaces at the end of line above -->
 
 ### 2.1 Access CCRI microdata
 
