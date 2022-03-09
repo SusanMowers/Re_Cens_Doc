@@ -57,10 +57,8 @@ Part 1.
 
 I used a Markdown table for table of contents because it gives more readability with alternating shaded rows for this great big blob of content links.
 Just a small related point, I also got rid of text centering for everything under the header row by taking off the colons, so that
-| table header1 | table header2 | table header3 |
 | :----: | :----: | :----: |
 became:
-| table header1 | table header2 | table header3 |
 | ---- | ---- | ---- |
 
 Part 2.
