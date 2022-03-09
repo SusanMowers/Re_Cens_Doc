@@ -1,4 +1,4 @@
-## Tackling the ugly problem
+## Tackling the ugly page problem
 March 5, 2002
 
 ## In the beginning
@@ -71,9 +71,11 @@ became:
 Part 2.
 
 Used workaround for this table:
-1. I used the superscript format \<sup>1-2 \<sup/>, to create a small font.  Otherwise the table of contents is massive and onerous to read.    
+1. I used the superscript format **\<sup>1-2\<sup/>**, to create a small font.  Otherwise the table of contents is massive and onerous to read.    
 I don't think the offset superscript text positioning is a biggie.  
-2. I got rid of all the periods in the section numbering, so 1.2 became 1-2.   
-This one change lets us create internal page links to the CCRI data sources section headers.    
-E.g., using the interim URL of this page, "https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md", the link to the ### 1-2  header becomes: 
-4. In the first column, I stuffed in a leading space before the section number that had more than one character, so *1-2* became *&nbsp; 1-2*
+2. I got rid of all the periods in the section numbering, so 1.2 became **1-2**.   
+This one change lets you create internal page links to the CCRI data sources section headers.    
+E.g., using the interim URL of this page, "https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md", the link to the \### 1-2 header becomes:  
+\[<sup>Map summary data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-Map-summary-data)  
+Markdown will read the header **\### 1-2 Map summary data** with the extension \# + **1-2-Map-summary-data**  
+4. In the first column, I stuffed in a leading space before the section number that had more than one character, so *1-2* became **\&nbsp; 1-2**
