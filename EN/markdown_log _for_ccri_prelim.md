@@ -61,7 +61,7 @@ More blah blah
 
 Part 1. 
 
-I used a Markdown table for table of contents because it gives more readability with alternating shaded rows for this great big blob of content links.
+I used a Markdown table for table of contents because it gives more better with alternating shaded rows for this great big blob of content links.
 Just a small related point, I also got rid of text centering for everything under the header row by taking off the colons, so that
 | :----: | :----: | :----: |
 became:
@@ -70,7 +70,7 @@ became:
 Part 2.
 
 Used workaround for this table:
-1. I used the superscript format <sup>blah blah<sup/> all to create a small font.  Otherwise the table of contents is massive and onerous to read.    
+1. I used the superscript format \<sup>blah blah\<sup/>, to create a small font.  Otherwise the table of contents is massive and onerous to read.    
 I don't think the offset superscript text positioning is a biggie.  
 2. I got rid of all the periods in the section numbering, so 1.2 became 1-2.   
 This one change lets us create internal page links to the CCRI data sources section headers.    
