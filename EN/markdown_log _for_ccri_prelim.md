@@ -12,7 +12,7 @@ We will delete most of these comments as soon as we have a good handle on what w
 4. We looked at ways of: 
 - Improving spacing (like more white space);
 - Improving flow (clearer hierarchy and progression, keeping explanations short and presentation more consistent). 
-5. We want clearer and consistent conventions using numbers line break between sections, proportionate to the hierarchy of the sections. 
+5. We want clearer and consistent line breaks between sections, proportionate to the hierarchy of the sections. 
 
 ## Solutions so far
 ### 1. Spacing
