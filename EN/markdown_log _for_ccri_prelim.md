@@ -18,8 +18,8 @@ We will delete most of these comments as soon as we have a good handle on what w
 
 ## Solutions so far
 ### 1. Spacing
-1.1 A good idea is to standardizing the line breaks between sections - probably to a maximum of four line breaks before new ## headers. 
-1.2 We are looking at how to control line breaks more.
+1.1 A good idea is standardizing numbers of line breaks between sections - probably to a maximum of four line breaks before ## headers.  
+1.2 We want to better control line breaks.  
 #### Method
 - The page now controls line breaks with two spaces at the end of the line above.  
 - This reflects best practises A, B and C.  
