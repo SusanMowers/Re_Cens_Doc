@@ -130,7 +130,8 @@ A word of introduction from the [CCRI Microdata page](https://ccri.library.ualbe
 
 - 1921 - Access [the 1911 Microdata (SPSS)](https://ccri.library.ualberta.ca/en1921census/database/index.html), and the companion [codebook for 1921](https://ccri.library.ualberta.ca/en1921census/codes/index.html)
  
-*The University of Alberta "web gateway" refers to *Microdata* as **Databases**. At the current time, the more recent 1931 - 1951 CCRI microdata files are not publicly available.  They are less than than the 92-year embargo period when Canadians' censuses must be kept private.
+The University of Alberta "web gateway" refers to *Microdata* as **Databases**.   
+At the current time, the more recent 1931 - 1951 CCRI microdata files are not publicly available.  They are less than than the 92-year embargo period when Canadians' censuses must be kept private.
 <br/><br/><!--Susan to SHANNON: added two line breaks but only one blank line after FOR END OF A SUB SECTIONS-->
 
 ### 2-2 Access data documentation
