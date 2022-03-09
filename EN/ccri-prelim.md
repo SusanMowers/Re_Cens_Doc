@@ -22,12 +22,13 @@ Looking further at the project’s architecture, or “[Green Balloons]( http://
 
 ### Get to know what CCRI data is available and where to access it
 
-This web posting introduces CCRI's ambitious range of Census data sources for Canada's decennial censuses, 1911, 1921, 1931, 1941 and 1951.
+This web posting introduces CCRI's ambitious range of Census data sources for Canada's decennial censuses, 1911, 1921, 1931, 1941 and 1951.  
 
-Knowing where to look for CCRI Census data and materials may be helpful for those interested in the history of their communities or larger Canadian geographies. These data and contextual materials provide in-depth information regarding the make-up of Canada’s peoples, the presence of cultural identities and languages, economic classes, education, and family and household living during the Canada's transformational first half of the 20th century.
+I hope that you will, like me when writing this post, come across excellent new sources of information about the Canada's historical Censuses of Population (1911 - 1951 censuses), and be able to more readily access the historical Census information sources produced by the CCRI project.
 
-It should be highlighted that CCRI data and related materials are also available in French. CCRI archives provide English and French-language data and metadata. *Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. 
-Ces matériels en langue française feront l'objet d'un prochaine article Web*.  
+Consult CCRI Census data and materials for in-depth information about the history of your communities or larger Canadian geographies. These data and contextual materials will provide in-depth information regarding the make-up of Canada’s peoples, the presence of cultural identities and languages, economic classes and worl, education, and family and household living during a hightly transformational time in the first half of the 20th century.
+
+*Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web*. For francophones: CCRI data and related materials are also available in French. CCRI archives provide both English and French-language data and metadata.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Two reasons why CCRI didn't release all of their data in "one" place
@@ -61,8 +62,6 @@ Considering these various CCRI partner web sites (and their sometimes complicate
 ## Where to start?
 
 Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) geographic boundary files. (Note: you will find included within these data sources, CCRI's documentation and metadata sources.) Wrap up by investigating CCRI's contextual database**.
-
-I hope that you will, like me when writing this post, come across excellent new sources of information about the Canada's historical Censuses of Population (1911 - 1951 censuses), and be able to more readily access the historical Census information sources produced by the CCRI project.
 
 | <sup>\# | <sup>CCRI Data Topics</sup> | <sup>Featuring</sup> |
 |----|-----------------------------|-----------|
