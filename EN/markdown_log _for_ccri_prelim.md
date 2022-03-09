@@ -33,9 +33,9 @@ B) TWO line breaks
 Line with two spaces after.     
 
 More brilliant blah blah.  
-<!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->. 
-C) TRHEE line breaks  
-Line with two spaces after   
+<!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->.
+C) THREE line breaks  
+Line with two spaces after    
 
 
 More blah blah. 
