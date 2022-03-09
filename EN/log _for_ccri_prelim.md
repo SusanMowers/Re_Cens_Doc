@@ -71,7 +71,7 @@ became:
 Part 2.
 
 Used workaround for this table:
-1. I used the superscript format **\<sup>1-2\<sup/>**, to create a small font.  Otherwise the table of contents is massive and onerous to read.    
+1. I used the superscript format **\<sup>1-2\<sup/>** for a small font.  Otherwise the massive table of contents looks horrible and cumbersom to read.    
 I don't think the offset superscript text positioning is a biggie.  
 2. I got rid of all the periods in the section numbering, so 1.2 became **1-2**.   
 This one change lets you create internal page links to the CCRI data sources section headers.    
