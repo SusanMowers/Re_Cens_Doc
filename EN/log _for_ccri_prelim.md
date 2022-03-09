@@ -36,8 +36,8 @@ Line with two spaces after.
 And the next line.  
 <!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->
 C) THREE line breaks  
-Line with two spaces after  
-<br/>\<br/>
+Line with two spaces after   
+
 
 And the next line. 
 <!-- Three line breaks - needs the two spaces in the first line -->
