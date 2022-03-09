@@ -1,4 +1,4 @@
-## Fixing an ugly page 
+## Fixing an ugly page - part 1
 March 5, 2002
 
 ## In the beginning
