@@ -34,7 +34,7 @@ Ces matériels en langue française feront l'objet d'un prochaine article Web*.
 
 ### 1&nbsp; Privacy protection
 
-Privacy of Canadians' Census information is legally mandated for 92 years after the data is collected under [section 18.1 of the *Statistics Act* re: "Census: disclosure after 92 years"](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html).
+Privacy of Canadians' Census information is legally mandated for 92 years after the data is collected under section 18.1 of the [*Statistics Act*, RSC 1995, c S-19](https://laws-lois.justice.gc.ca/eng/acts/s-19/fulltext.html), re: "Census: disclosure after 92 years.
 
 To this end, only two census years are publicly accessible:[the CCRI 1911 microdata file](https://ccri.library.ualberta.ca/en1911census/database/index.html) and [the CCRI 1921 microdata file](https://ccri.library.ualberta.ca/en1921census/database/index.html). Note: the CCRI archive "web gateway" refers to these files as "databases." 
 
