@@ -78,6 +78,6 @@ This one change lets you create internal page links to the CCRI data sources sec
 - the link for **\### 1-2 Map summary data** header becomes:  
 \[\<sup>Map summary data\</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-Map-summary-data)  
 - Markdown reoads page and jumps to actual header **\### 1-2 Map summary data** as per the URL extension: **\#** followed by **1-2-Map-summary-data**  
-4. Added a leading space before the section number in column 1 for section numbers having more than one character
+4. Added a leading space before the section number in column 1 for any section numbers having more than one character
 - **1-2** becomes **\&nbsp; 1-2**, or more accurately, **\<sup>\&nbsp; 1-2**
 6. Haven't finished step 3 (internal page links).
