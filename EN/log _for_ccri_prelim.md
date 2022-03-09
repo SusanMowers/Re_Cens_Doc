@@ -6,7 +6,7 @@ March 5, 2002
 - CCRI_prelim.md just looks junky. Tons of information and many sections all crammed into one page. <br/>
 2. On the plus side
 - Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to ## level 2 headers) 
-- \## - level headers display horizontal lines on the line just below and are good section demarcators.  
+- \## - level 2 headers display nice horizontal lines on the line just below providing good section demarcators.  
 <!-- the backslash before ## in the line above let's you to sneak in text that Markdown knows as a format tag -->
 3. Some prep:
 - Shannon installed Atom and the markdown preview package
