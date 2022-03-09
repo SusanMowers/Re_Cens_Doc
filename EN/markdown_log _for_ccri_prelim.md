@@ -22,23 +22,27 @@ We will delete most of these comments as soon as we have a good handle on what w
 - The page now controls line breaks with two spaces at the end of the line above.  
 - This reflects best practises A, B and C.  
 
-A) First line with two spaces after.     
+A) ONE LINE BREAK. 
+First line with two spaces after.     
 And the next line. 
 <!-- One line break -->
  
-B) Line with two spaces after.     
+B) TWO LINE BREAKS. 
+Line with two spaces after.     
 
 More brilliant blah blah. 
 <!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->. 
 
-C) Line with two spaces after   
+C) TRHEE LINE BREAKS.
+Line with two spaces after   
 
 
 More blah blah. 
 <!-- Three line breaks - needs the two spaces in the first line -->
 
-D) Line with two spaces after    
-<br/>
+D) FOUR LINE BREAKS, must use \<br/>. 
+Line with two spaces after      
+<br/>\<br/>
 
 
 More blah blah
