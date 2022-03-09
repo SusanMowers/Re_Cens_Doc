@@ -27,19 +27,19 @@ We will delete most of these comments as soon as we have a good handle on what w
 
 A) ONE line break    
 First line with two spaces after.     
-And the next line. 
+And the next line.
 <!-- One line break -->
  
 B) TWO line breaks  
 Line with two spaces after.     
 
-More brilliant blah blah.  
+And the next line.  
 <!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->
-C) THREE line breaks   
+C) THREE line breaks  
 Line with two spaces after  
 <br/>\<br/>
 
-More blah blah. 
+And the next line. 
 <!-- Three line breaks - needs the two spaces in the first line -->
 
 D) FOUR LINE BREAKS.   
@@ -47,7 +47,7 @@ Line with two spaces after
 <br/><br/>\<br/>
 
 
-More blah blah
+And the next line. 
 <!-- Four line breaks - needs the two spaces in the first line. In this example, I didn't put two spaces after the first line -->
 
 ### 2. More consistent formatting 
