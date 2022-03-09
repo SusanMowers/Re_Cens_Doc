@@ -61,7 +61,7 @@ Given the number CCRI archive "web gateways", ofthen with complex drill-down arc
 
 ## Where to start?
 
-Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) geographic boundary files. (Note: you will find included within these data sources, CCRI's documentation and metadata sources.) Wrap up by investigating CCRI's contextual database**.
+Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) geographic boundary files. (Note: you will find included within these data sources, CCRI's documentation and metadata sources.) Wrap up your first CCRI search by investigating CCRI's contextual database.
 
 | <sup>\# | <sup>CCRI Data Topics</sup> | <sup>Featuring</sup> |
 |----|-----------------------------|-----------|
