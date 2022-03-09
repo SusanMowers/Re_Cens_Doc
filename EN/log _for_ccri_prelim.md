@@ -42,7 +42,7 @@ And the next line.
 <!-- Three line breaks - needs the two spaces in the first line -->
 
 D) FOUR LINE BREAKS.   
-Line with two spaces after<br/>\<br/><br/>
+Line with two spaces after<br/>\<br/><br/>\<br/>
 
 
 And the next line. 
