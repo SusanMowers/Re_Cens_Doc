@@ -1,9 +1,9 @@
-## Tackling the problem
-A great deal of information and many, many pieces of information are crammed into this long page. This is junky-looking page. 
+## Tackling the ugly problem
 
 ## In the beginning
-1. Susan noted Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to t ## - level headers) 
-2. \## - level headers display horizontal lines on the line just below and are good section demarcators.  
+1. On the negative side, a great deal of information and many sections are crammed into one long page. It looks junky. 
+2. On the plus side, Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to t ## - level headers) 
+3. \## - level headers display horizontal lines on the line just below and are good section demarcators.  
 <!-- the backslash before ## in the line above let's you to sneak in text that Markdown knows as a format tag -->
 3. Prep:
 - Shannon installed Atom and the markdown preview package
