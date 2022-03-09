@@ -56,7 +56,7 @@ More blah blah
 
 ### 3. It's too much!
 1. So much is crammed into **2. Microdata**.  
-2. Susan will work on a detailed table of contents for this cluttered CCRI Data Sources section.
+2. Solution: a detailed table of contents for the cluttered **CCRI Data Sources** section.
 
 #### Method
 
