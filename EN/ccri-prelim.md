@@ -132,7 +132,7 @@ A word of introduction from the [CCRI Microdata page](https://ccri.library.ualbe
  
 The University of Alberta "web gateway" refers to *Microdata* as **Databases**.  
  
-At presnet, the more recent 1931 - 1951 CCRI microdata files are not publicly available.  The reason being that their data are less than than the 92-year embargo period when Canadians' censuses must be kept private.
+At present, the more recent 1931 - 1951 CCRI microdata files are not publicly available.  The reason being that their data are less than than the 92-year embargo period when Canadians' censuses must be kept private.
 <br/><br/><!--Susan to SHANNON: added two line breaks but only one blank line after FOR END OF A SUB SECTIONS-->
 
 ### 2-2 Access data documentation
