@@ -28,7 +28,7 @@ I hope that you will, like me when writing this post, come across excellent new 
 
 Consult CCRI Census data and materials for in-depth information about the history of your communities or larger Canadian geographies. These data and contextual materials will provide in-depth information regarding the make-up of Canada’s peoples, the presence of cultural identities and languages, economic classes and worl, education, and family and household living during a hightly transformational time in the first half of the 20th century.
 
-*Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web*. For those looking for French-language data and materials: CCRI archives provide both English and French-language CCRI information resources.  
+*Chaque archive de l'ICRS fournit des données et des métadonnées en français et en anglais. Ces matériels en langue française feront l'objet d'un prochaine article Web*. For those looking for French-language data and materials: the CCRI archive "web gateways" provide French as well as English-language CCRI resources.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Two reasons why CCRI didn't release all of their data in "one" place
