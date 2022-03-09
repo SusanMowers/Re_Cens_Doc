@@ -49,12 +49,12 @@ Line with two spaces after
 More blah blah
 <!-- Four line breaks - needs the two spaces in the first line. In this example, I didn't put two spaces after the first line -->
 
-### More consistent formatting 
-1. Susan added sub-header numbers to unnumbered sub-headers.  We probably won't number the sections above CCRI Data Sources: 1 Selected published data tables be numbered.  This would create numbering like 2.2.3.1.1.
+### 2. More consistent formatting 
+1. Added sub-header numbers to unnumbered sub-headers.  We probably won't number the sections above CCRI Data Sources: 1 Selected published data tables be numbered.  This would create numbering like 2.2.3.1.1.
 2. Any sections that look weird probably need to be formatted like the others
 
-### It's too much!
-1. Just so much crammed is into **2. Microdata**.  
+### 3. It's too much!
+1. So much is crammed into **2. Microdata**.  
 2. Susan will work on a detailed table of contents for this cluttered CCRI Data Sources section.
 
 #### Method
