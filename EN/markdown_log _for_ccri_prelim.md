@@ -2,7 +2,7 @@
 
 ## In the beginning
 1. On the negative side
-- a great deal of information and many sections are crammed into one long page. It looks junky. <br/>
+- It looks junky. A great deal of information and many sections are crammed into one long page. <br/>
 2. On the plus side
 - Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to t ## - level headers) 
 - \## - level headers display horizontal lines on the line just below and are good section demarcators.  
