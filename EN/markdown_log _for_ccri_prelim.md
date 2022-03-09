@@ -33,14 +33,14 @@ Line with two spaces after.
 More brilliant blah blah. 
 <!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->. 
 
-C) TRHEE LINE BREAKS.
+C) TRHEE LINE BREAKS.  
 Line with two spaces after   
 
 
 More blah blah. 
 <!-- Three line breaks - needs the two spaces in the first line -->
 
-D) FOUR LINE BREAKS, must use \<br/>. 
+D) FOUR LINE BREAKS. 
 Line with two spaces after      
 <br/>\<br/>
 
