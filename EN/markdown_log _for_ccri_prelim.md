@@ -36,14 +36,14 @@ More brilliant blah blah.
 <!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->
 C) THREE line breaks   
 Line with two spaces after  
-<br/><\br/>
+<br/>\<br/>
 
 More blah blah. 
 <!-- Three line breaks - needs the two spaces in the first line -->
 
 D) FOUR LINE BREAKS.   
 Line with two spaces after
-<br/><br/><\<br/>
+<br/><br/>\<br/>
 
 
 More blah blah
