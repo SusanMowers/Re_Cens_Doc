@@ -3,8 +3,9 @@ A great deal of information and many, many pieces of information are crammed int
 
 ## In the beginning
 1. Susan noted Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to t ## - level headers) 
-2. ## - level headers display horizontal lines on the line just below and are good section demarcators.
-3. Prep:
+2. \## - level headers display horizontal lines on the line just below and are good section demarcators.  
+<!-- the backslash before ## in the line above let's you to sneak in text that Markdown knows as a format tag -->
+4. Prep:
 - Shannon installed Atom and the markdown preview package
 - Markdown testing.  We commented our test changes for tracking, <!-- Susan TO SHANNON, changed to xyz, do you like this? -->    
 We will delete most of these comments as soon as we have a good handle on what we are doing.
