@@ -22,18 +22,17 @@ We will delete most of these comments as soon as we have a good handle on what w
 - The page now controls line breaks with two spaces at the end of the line above.  
 - This reflects best practises A, B and C.  
 
-A) ONE LINE BREAK.    
+A) ONE line break    
 First line with two spaces after.     
 And the next line. 
 <!-- One line break -->
  
-B) TWO LINE BREAKS.   
+B) TWO line breaks  
 Line with two spaces after.     
 
-More brilliant blah blah. 
+More brilliant blah blah.  
 <!-- Two line breaks -  the two spaces in the first line may be optional in this case, but not sure -->. 
-
-C) TRHEE LINE BREAKS.  
+C) TRHEE line breaks  
 Line with two spaces after   
 
 
