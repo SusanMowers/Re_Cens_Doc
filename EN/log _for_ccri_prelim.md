@@ -77,8 +77,8 @@ I don't think the offset superscript text positioning is a biggie.
 This one change lets you create internal page links to the CCRI data sources section headers.    
 3. More Fiddling with actual headers name being lined to from =the table of contents.
 - using the interim page URL "https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md" 
-- the link to the **\### 1-2** header becomes:  
+- the link for **\### 1-2 Map summary data** header becomes:  
 \[\<sup>Map summary data\</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-Map-summary-data)  
-- Markdown reads the header **\### 1-2 Map summary data** as the URL extension **\#** + **1-2-Map-summary-data**  
+- Markdown reads the header **\### 1-2 Map summary data** as the URL extension **\#** followed by **1-2-Map-summary-data**  
 4. Stuffed in a leading space before the section number in column 1 that had more than one character, so *1-2* became **\&nbsp; 1-2**
-5. Haven't finished step 3 yet.
+5. Haven't finished step 3 (internal page links) yet.
