@@ -85,7 +85,7 @@ Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) 
 | <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
 
 <br/><!-- equals 3 line breaks, as per end of a table the line below the table must be blank, there are no spaces at the end of the last table line -->
-Do you want to keep this page open, while you open the links on this page? Right click on the links to open the link in a new tab.  
+Do you want to keep this page open while you open the links on this page?  Right click on a link to open it in a new tab.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## CCRI data sources
