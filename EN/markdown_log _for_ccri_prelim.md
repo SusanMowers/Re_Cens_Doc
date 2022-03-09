@@ -22,7 +22,7 @@ We will delete most of these comments as soon as we have a good handle on what w
 - The page now controls line breaks with two spaces at the end of the line above.  
 - This reflects best practises A, B and C.  
 
-A) First line with two spaces after. 
+A) First line with two spaces after.     
 And the next line. 
 <!-- One line break -->
  
