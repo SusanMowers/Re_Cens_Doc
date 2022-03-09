@@ -10,7 +10,7 @@ March 5, 2002
 <!-- the backslash before ## in the line above let's you to sneak in text that Markdown knows as a format tag -->
 3. Some prep:
 - Shannon installed Atom and the markdown preview package
-- We commented out test change info for tracking, e.g., \<!-- Susan TO SHANNON, abc changed to xyz, keep? -->    
+- We commented out test change info for tracking, e.g., \<!-- Susan TO SHANNON, abc changed to xyz, keep change? -->    
 We will delete most of these comments as soon as we have a good handle on what we are doing.<br/>
 4. We looked at ways of: 
 - Improving spacing (like more white space);
