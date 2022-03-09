@@ -240,4 +240,8 @@ This database is the result of the project's approach to reflect the *organizati
 The integrated Contextual database with a detailed user guide is found at the [Université du Québec à Trois Rivières](https://cieqfmweb.uqtr.ca/fmi/webd/IRCS_CONTEXTDATA_WEB).
 
 #### 4-3-2 Using the Contextual Database
-The User Guide is essential. In particular, please see the User Guide topics, **Corpus**, **Thematic Index**, and **How to use**.
+1. The User Guide is essential. In particular, please see the User Guide topics, **Corpus**, **Thematic Index**, and **How to use**. 
+2. When doing a simple transcript search
+ - ignore the default data displayed
+ - type your keyword search in the search box shown just  left of the magnifying glass icon found at the top of your screen
+ - display your first 12 results 
