@@ -5,14 +5,14 @@ A great deal of information and many, many pieces of information are crammed int
 1. Susan noted Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to t ## - level headers) 
 2. \## - level headers display horizontal lines on the line just below and are good section demarcators.  
 <!-- the backslash before ## in the line above let's you to sneak in text that Markdown knows as a format tag -->
-4. Prep:
+3. Prep:
 - Shannon installed Atom and the markdown preview package
-- Markdown testing.  We commented our test changes for tracking, <!-- Susan TO SHANNON, changed to xyz, do you like this? -->    
+- Markdown testing.  We commented our test changes for tracking, e.g., \<!-- Susan TO SHANNON, changed to xyz, do you like this? -->    
 We will delete most of these comments as soon as we have a good handle on what we are doing.
 4. We looked at ways of: 
 - Improving spacing (like more white space);
 - Improving flow (clearer hierarchy and progression, keeping explanations short and presentation more consistent). 
-5. We want clearer conventions of amount of line break between sections, proportionate to the hierarchy of the sections. 
+5. We want clearer and consistent conventions using numbers line break between sections, proportionate to the hierarchy of the sections. 
 
 ## Solutions so far
 ### 1. Spacing
