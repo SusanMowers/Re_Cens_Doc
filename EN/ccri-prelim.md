@@ -114,9 +114,8 @@ You can map the summary data by either Census districts or Census subdistricts f
 
 ### 2 Microdata
 
-A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):
-
-Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.   
+A word of introduction (from the [CCRI Microdata page](https://ccri.library.ualberta.ca/enoverview/microdata/index.html)):  
+*Broadly speaking, data are the raw material on which the statistics of the census are calculated. The value of microdata for research is substantial. The census offers some of the most comprehensive evidence concerning the Canadian population as a whole. In theory the modern census covers the entire country, and in practice it reports on more residents in Canada than any other source. Moreover, the Canadian census not only includes almost all the key variables that can be found in the censuses of most other countries, but also some less frequently asked questions such as those concerning religion, language, and rural/urban distinctions.*   
 <!-- equals 3 line breaks, 2 spaces at the end of line above -->
 
 | **Year** | **Total National Population** <br/> *(according to published Census volumes)* | **CCRI Sample** | **%** |
