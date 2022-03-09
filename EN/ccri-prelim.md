@@ -84,6 +84,7 @@ Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) 
 | <sup>&nbsp; *4-2* |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
 | <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
 
+<br/><!-- equals 3 line breaks, as per end of a table the line below the table must be blank, there are no spaces at the end of the last table line -->
 Do you want to keep this page open, while you open the links on this page? Right click on the links to open the link in a new tab.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
@@ -123,7 +124,7 @@ Broadly speaking, data are the raw material on which the statistics of the censu
 | 1911 |           7 206 648           |   371 557   | 5 |
 | 1921 |           8 788 483           |   367 475   | 4 |
 
-<br/><!-- equals 3 line breaks, as per end of table, line below table must be blank, there are no spaces at the end of the last table line-->
+<br/><!-- equals 3 line breaks, as per end of a table the line below the table must be blank, there are no spaces at the end of the last table line -->
 ### 2.1 Access CCRI microdata
 
 1911
