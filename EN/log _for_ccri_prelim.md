@@ -2,7 +2,7 @@
 March 5, 2002
 
 ## In the beginning
-1. On the negative side
+1. On the minus side
 - CCRI_prelim.md just looks junky. Tons of information and many sections all crammed into one page. <br/>
 2. On the plus side
 - Sandra had created a table of contents at the top of the page to make this massive page more navigable (via html links to ## level 2 headers) 
