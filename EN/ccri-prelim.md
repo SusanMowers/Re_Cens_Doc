@@ -46,9 +46,9 @@ The more recent 1931, 1941 and 1951 microdata files are securely managed and hou
 
 #### 2-1&nbsp; Network of CCRI archives
 
-CCRI archiving efforts were shared among several universities for the 1911 - 1951 censuses. 
+CCRI archiving efforts were shared among several universities. 
 
-Several partner universities were responsible for providing bilingual CCRI "web gateway" archives. One-point discovery and access to CCRI resources was not a focus for the project. Instead the focus was on the production of time harmonized census data (by geography and census concepts) and harmonized metadata and documentation.  The strategy for these archiving all these resources was to distribute their archiving among identified partner universities, while ensuring privacy protections.
+Several partner universities were responsible for providing bilingual CCRI "web gateway" archives. One-point discovery and access to CCRI resources from 1911 - 1951 Censuses was not a focus for the project. Instead the focus was on the production of time-harmonized Census data (for geography and by census concepts) and supporting harmonized metadata and related documentation.  On their distributed CCRI archive "web gateways", identified CCRI partner universities and the University of Alberta archived the ambitious range of Census data and resources that were produced by the CCRI project, and ensured privacy protections.
 
 #### 2-2&nbsp; What are the CCRI archives?
 
@@ -56,7 +56,7 @@ The CCRI archive "web gateways" are found at [the University of Alberta](https:/
 
 Further CCRI partner university websites are: [project host website at the University of Ottawa](http://www.ccri.uottawa.ca/), [CCRI York University Centre website](http://www.yorku.ca/ccri/index.html), [CCRI-ICRS 1911 Sample of the 1911 Canadian Census website, Université du Québec à Trois-Rivières](https://ircs1911.cieq.ca/).
 
-Considering these various CCRI partner web sites (and their sometimes complicated architecture), perusing this page first is recommended to obtain an overview of the range of available CCRI data resources in order to zero in on the most relevant resources for your needs.  
+Given the number CCRI archive "web gateways", ofthen with complex drill-down architectures, it is hoped that by perusing this page, you will readily differentiate the types of CCRI data resources, and hopefully zero in on the resources that meet your needs and interests.  
 <br/><!-- equals 4 line breaks, 2 spaces at the end of line above -->
 
 ## Where to start?
