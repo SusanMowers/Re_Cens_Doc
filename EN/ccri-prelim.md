@@ -68,21 +68,21 @@ Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) 
 | **<sup>1** |   [**<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-Selected-published-Census-data-tables)   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>&nbsp; 1-1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
 | <sup>&nbsp; 1-2 |  [<sup>Map summary data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-Map-summary-data)  |   |
-| <sup>**2** |          <sup>**CCRI CENSUS MICRODATA**</sup>           | <sup>CCRI microdata to analyse or aggregate</sup>    |
-| <sup>&nbsp; 2-1 |           <sup>Access CCRI microdata</sup>            |   |
-| <sup>&nbsp; 2-2 |          <sup>Access CCRI data documentation</sup>            |   |
+| <sup>**2** |          [<sup>**CCRI CENSUS MICRODATA**</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-CCRI-Census-Microdata)           | <sup>CCRI microdata to analyse or aggregate</sup>    |
+| <sup>&nbsp; 2-1 |           [<sup>Access CCRI microdata</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-1-Access-CCRI-midrodata)            |   |
+| <sup>&nbsp; 2-2 |          [<sup>Access CCRI data documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-Access-CCRI-data-documentation)            |   |
 |  |           <sup>*Note, privacy protection*</sup>          |   |
-| <sup>&nbsp;  2-2-1 |           <sup>Compare CCRI census variables</sup>           |   |
-| <sup>&nbsp;  2-2-2 |           <sup>Official Census of Population of Canada documentation</sup>            |   |
-| <sup>&nbsp;  2-2-3 |           <sup>Consult reference maps</sup>          |   |
-| <sup>&nbsp;  2-2-4 |          <sup>Methodology documentation</sup>           |   |
-| <sup>**3** |           <sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>           | <sup>For GIS / spatial analysis</sup>  |
-| <sup>&nbsp; 3-1 |           <sup>Uses</sup>           |   |
-| <sup>&nbsp; 3-2 |           <sup>Access CCRI boundary files with detailed metadata</sup>            |   |
-|  |          <sup> ***CCRI CONTEXTUAL DATABASE***</sup>           | <sup>Primary historical textual sources</sup>   |
-| <sup>&nbsp; *4-1* |           <sup>*Censuses in Context*</sub>           |   |
-| <sup>&nbsp; *4-2* |           <sup>*Coverage of the Contextual Database<*/sup>          |   |
-| <sup>&nbsp; *4-3* |           <sup>*Access and use of the Contextual Database*</sup>         |   |
+| <sup>&nbsp;  2-2-1 |           [<sup>Compare CCRI census variables</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-1-Compare-CCRI-census-variables)           |   |
+| <sup>&nbsp;  2-2-2 |           [<sup>Official Census of Population of Canada documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-2-Official-Census-of-Population-of-Canada-documentation)            |   |
+| <sup>&nbsp;  2-2-3 |           [<sup>Consult reference maps</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-3-Consult-reference-maps)          |   |
+| <sup>&nbsp;  2-2-4 |          [<sup>Methodology documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-4-Methodology-documentation)         |   |
+| <sup>**3** |           [<sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-CCRI-Census-Geography-Boundary-Files)            | <sup>For GIS / spatial analysis</sup>  |
+| <sup>&nbsp; 3-1 |           [<sup>Uses</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-1-Uses)           |   |
+| <sup>&nbsp; 3-2 |           [<sup>Access CCRI boundary files with detailed metadata</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-2-Access_CCRI_boundary-files-with-detailed-metadata)            |   |
+| <sup>**4** |          [<sup> ***CCRI CONTEXTUAL DATABASE***</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#4-CCRI-Contextual-database)            | <sup>Primary historical textual sources</sup>   |
+| <sup>&nbsp; *4-1* |           [<sup>*Censuses in Context*</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#4-1-Censuses-in-context)           |   |
+| <sup>&nbsp; *4-2* |           [<sup>*Coverage of the Contextual Database*</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#4-2-Coverage-of-the-contextual-database)          |   |
+| <sup>&nbsp; *4-3* |           [<sup>*Access and use of the Contextual Database*</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#4-3-Access-and-use-of-the-contextual-database)         |   |
 
 <br/><!-- equals 3 line breaks, as per end of a table the line below the table must be blank, there are no spaces at the end of the last table line -->
 Do you want to keep this page open while you open the links on this page?  Be sure to right click on a link to open it in a new tab.  
