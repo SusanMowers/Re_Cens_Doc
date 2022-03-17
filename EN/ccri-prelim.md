@@ -68,9 +68,9 @@ Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) 
 | **<sup>1** |   [**<sup>SELECTED PUBLISHED CENSUS DATA TABLES</sup>**](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-Selected-published-Census-data-tables)   | <sup>CCRI's Excel-ready aggregate data</sup>   |
 | <sup>&nbsp; 1-1 |           [<sup>Access aggregate data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-1-Access-aggregate-data)            |   |
 | <sup>&nbsp; 1-2 |  [<sup>Map summary data</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#1-2-Map-summary-data)  |   |
-| <sup>**2** |          [<sup>**CCRI CENSUS MICRODATA**</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-CCRI-Census-Microdata)           | <sup>CCRI microdata to analyse or aggregate</sup>    |
-| <sup>&nbsp; 2-1 |           [<sup>Access CCRI microdata</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-1-Access-CCRI-midrodata)            |   |
-| <sup>&nbsp; 2-2 |          [<sup>Access CCRI data documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-Access-CCRI-data-documentation)            |   |
+| <sup>**2** |          [<sup>**CCRI CENSUS MICRODATA**</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-Microdata)           | <sup>CCRI microdata to analyse or aggregate</sup>    |
+| <sup>&nbsp; 2-1 |           [<sup>Access CCRI microdata</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2.1-Access-CCRI-midrodata)            |   |
+| <sup>&nbsp; 2-2 |          [<sup>Access CCRI data documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-Access-data-documentation)            |   |
 |  |           <sup>*Note, privacy protection*</sup>          |   |
 | <sup>&nbsp;  2-2-1 |           [<sup>Compare CCRI census variables</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-1-Compare-CCRI-census-variables)           |   |
 | <sup>&nbsp;  2-2-2 |           [<sup>Official Census of Population of Canada documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-2-Official-Census-of-Population-of-Canada-documentation)            |   |
