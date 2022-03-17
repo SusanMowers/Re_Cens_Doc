@@ -78,7 +78,7 @@ Start with CCRI's data sources, (1) aggregate data, then, (2) microdata and (3) 
 | <sup>&nbsp;  2-2-4 |          [<sup>Methodology documentation</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#2-2-4-Methodology-documentation)         |   |
 | <sup>**3** |           [<sup>**CCRI CENSUS GEOGRAPHY BOUNDARY FILES**</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-CCRI-Census-Geography-Boundary-Files)            | <sup>For GIS / spatial analysis</sup>  |
 | <sup>&nbsp; 3-1 |           [<sup>Uses</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-1-Uses)           |   |
-| <sup>&nbsp; 3-2 |           [<sup>Access CCRI boundary files with detailed metadata</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-2-Access_CCRI_boundary-files-with-detailed-metadata)            |   |
+| <sup>&nbsp; 3-2 |           [<sup>Access CCRI boundary files with detailed metadata</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#3-2-Access-CCRI-boundary-files-with-detailed-metadata)            |   |
 | <sup>**4** |          [<sup> ***CCRI CONTEXTUAL DATABASE***</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#CCRI-Contextual-database)            | <sup>Primary historical textual sources</sup>   |
 | <sup>&nbsp; *4-1* |           [<sup>*Censuses in Context*</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#4-1-Censuses-in-context)           |   |
 | <sup>&nbsp; *4-2* |           [<sup>*Coverage of the Contextual Database*</sup>](https://github.com/SusanMowers/reCens_doc/blob/main/EN/ccri-prelim.md#4-2-Coverage-of-the-contextual-database)          |   |
